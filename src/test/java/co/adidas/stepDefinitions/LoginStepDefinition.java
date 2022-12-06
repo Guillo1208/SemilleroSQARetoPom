@@ -1,6 +1,7 @@
 package co.adidas.stepDefinitions;
 
 
+import co.adidas.steps.FacebookStep;
 import co.adidas.steps.PaginaInicioStep;
 import co.adidas.steps.PerfilStep;
 import cucumber.api.java.es.Cuando;
@@ -15,27 +16,30 @@ public class LoginStepDefinition {
     @Steps
     PaginaInicioStep paginaInicioStep;
     @Steps
+    FacebookStep facebookStep;
+    @Steps
     PerfilStep perfilStep;
 
     @Dado("^el usuario se encuentre en la pagina de adidas$")
     public void elUsuarioSeEncuentreEnLaPaginaDeAdidas() throws IOException {
     paginaInicioStep.abrirNavegador();
-    paginaInicioStep.clicIniciarSesion();
+
     }
 
 
     @Cuando("^el usuario ingresa su correo con la clave$")
     public void elUsuarioIngresaSuCorreoConLaClave() throws IOException {
-    paginaInicioStep.ingresarCorreo();
-    paginaInicioStep.clicDesmarcar();
-    paginaInicioStep.clicContinuar();
-    paginaInicioStep.ingresarCredenciales();
-    paginaInicioStep.clicIngresar();
+        paginaInicioStep.clicIniciarSesion();
+        paginaInicioStep.clicFacebook();
+        facebookStep.ingresarCorreo();
+        facebookStep.ingresarCredenciales();
+        facebookStep.clicIngresar();
+
     }
 
     @Entonces("^el usuario observara su pagina de perfil$")
     public void elUsuarioObservaraSuPaginaDePerfil() {
-    //perfilStep.validarMensajeBienvenida();
+    perfilStep.validarMensajeBienvenida();
     }
 
 }

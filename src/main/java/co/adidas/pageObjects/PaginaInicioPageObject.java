@@ -5,35 +5,16 @@ import org.openqa.selenium.By;
 
 public class PaginaInicioPageObject extends PageObject {
 
-    By btnInicioSesion = By.xpath("(//button[@type='button'])[1]");
-    By txtCorreo = By.xpath("//input[@id='login-register-auto-flow-input']");
-    By chkDesmarcar  = By.xpath("//div[@class='gl-checkbox gl-checkbox--checked']");
-    By btnContinuar = By.xpath("//button[@aria-label='Continuar']");
+    By btnIniciarSesion = By.xpath("//button[@class='gl-cta gl-cta--tertiary profile_button_link___Z9706 outlined-icon-color___j8D2R undefined']");
+    By btnFacebook = By.xpath("(//button[@class='gl-cta gl-cta--full-width gl-cta--icon   '])[1]");
 
-    By txtCredencial = By.id("login-password");
-    By btnIngresar = By.xpath("//button[@type='submit']");
 
-    public By getBtnInicioSesion() {
-        return btnInicioSesion;
+    public By getBtnIniciarSesion() {
+        return btnIniciarSesion;
     }
 
-    public By getTxtCorreo() {
-        return txtCorreo;
+    public By getBtnFacebook() {
+        return btnFacebook;
     }
 
-    public By getChkDesmarcar() {
-        return chkDesmarcar;
-    }
-
-    public By getBtnContinuar() {
-        return btnContinuar;
-    }
-
-    public By getTxtCredencial() {
-        return txtCredencial;
-    }
-
-    public By getBtnIngresar() {
-        return btnIngresar;
-    }
 }

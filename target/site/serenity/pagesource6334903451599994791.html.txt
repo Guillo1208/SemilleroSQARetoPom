@@ -1,0 +1,4303 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es"><head>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Language" content="es-CO">
+
+	
+
+
+	<meta http-equiv="x-dns-prefetch-control" content="on">	
+	
+		
+		<link rel="dns-prefetch" href="//demandware.edgesuite.net">
+	
+		
+		<link rel="dns-prefetch" href="//hp.static.adidas.com">
+	
+		
+		<link rel="dns-prefetch" href="//tags.tiqcdn.com">
+	
+		
+		<link rel="dns-prefetch" href="//cdn.optimizely.com">
+	
+		
+		<link rel="dns-prefetch" href="//adidas.ugc.bazaarvoice.com">
+	
+		
+		<link rel="dns-prefetch" href="//maps.googleapis.com">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.adidas.co/ayuda/mapa-del-sitio.html">
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+		<meta property="og:site_name" content="adidas Colombia">
+	
+		<meta property="og:title" content="Mapa del sitio">
+	
+		<meta property="og:url" content="https://www.adidas.co/ayuda/mapa-del-sitio.html">
+	
+		<meta property="og:description" content="Compra en nuestra tienda oficial online adidas Colombia, ropa, tenis  y accesorios deportivos creados con tecnología, diseño y confort">
+	
+	
+	
+
+
+
+
+
+<title>
+
+
+Mapa del sitio
+
+
+</title>
+
+
+
+<!--[if lte IE 8]>
+<script type="text/javascript">
+	document.createElement('segment');
+</script>
+<![endif]-->
+
+
+
+
+
+<!-- build page type:help -->
+
+<link href="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/css/fonts.css" type="text/css" rel="stylesheet">
+
+
+<!-- help -->
+<link href="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/css/adidas-build-COMMON.css" type="text/css" rel="stylesheet">
+
+<!--[if lt IE 10]>
+<link href="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/css/adidas-build-COMMON-iefix.css" type="text/css" rel="stylesheet" />
+<![endif]-->
+
+
+<link href="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/css/local.css" type="text/css" rel="stylesheet">
+
+<!--[if IE 8]><link href="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/css/ie8_global.css" type="text/css" rel="stylesheet" /><![endif]-->
+<!--[if IE 9]><link href="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/css/ie9_global.css" type="text/css" rel="stylesheet" /><![endif]-->
+
+
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/images/favicons/apple-touch-icon.png">
+<link rel="shortcut icon" type="image/png" sizes="180x180" href="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/default/dwf2a890a0/images/favicons/favicon.png">
+<link rel="shortcut icon" type="image/png" sizes="32x32" href="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/default/dw82e33d55/images/favicons/favicon-32x32.png">
+<link rel="shortcut icon" type="image/png" sizes="16x16" href="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/default/dwb0ae0d22/images/favicons/favicon-16x16.png">
+<link rel="manifest" href="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/default/dw4c065b95/images/favicons/manifest.json">
+<link rel="icon" href="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/default/dw13f2f36e/images/favicons/favicon.ico">
+<meta name="msapplication-config" content="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/default/dw5d9e106b/images/favicons/browserconfig.xml">
+<meta name="theme-color" content="#fff">
+<link href="https://plus.google.com/101842039723189178420" rel="publisher">
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+
+
+<meta name="robots" content="noodp, noydir, index, follow, archive">
+
+
+<meta property="fb:app_id" content="180047868795870">
+
+<meta name="format-detection" content="telephone=no">
+
+
+
+
+
+
+
+
+
+
+
+<!--[if lte IE 8]>
+<script src="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/js/iefix.js" type="text/javascript"></script>
+<script src="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/js/json2.min.js" type="text/javascript"></script>
+<![endif]-->
+
+
+<iframe src="javascript:void(0)" title="" role="presentation" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script src="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/js/vendor/require.js" type="text/javascript"></script>
+<script src="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/js/vendor/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery.curCSS = jQuery.css;
+</script>
+<!--[if lte IE 9]>
+<script src="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/js/jquery.placeholder.js" type="text/javascript"></script>
+<script type="text/javascript">jQuery(function () { try { jQuery('input, textarea').placeholder(); } catch(e) {} });</script>
+<![endif]-->
+
+<!-- help -->
+<script type="text/javascript">
+window.app=jQuery.extend(window.app || {}, {isBuilded:true,bundlesRequired:
+["https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/js/adidas-build-COMMON.js"
+
+,"https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/js/adidas-build-help.js"
+
+]});
+</script>
+
+<script src="https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/js/vendor/web-event.js" type="text/javascript"></script>
+
+
+
+
+<script type="text/javascript">
+
+
+
+
+
+
+(function (app) {
+'use strict';
+app.constants = {};
+app.resources = {};
+app.minicart = {};
+app.URLs = {};
+app.minicart.oldLayerToNew = (function (map) {
+return function (layer, defaultValue) {
+return layer && map[layer] ? map[layer] : defaultValue;
+};
+}({
+"minicart": "Mini cart",
+"overlay": "Add To Bag overlay",
+"straightcart": "Straight to Cart"
+}));
+app.isMobile = true;
+app.isAdidas = true;
+app.isReebok = false;
+app.minicart.url = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Cart-MiniAddProduct";
+app.minicart.productCountUrl = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Cart-ProductCount";
+app.URLs.personalizedBasketCheck = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Cart-ValidatePersonalizationBasket";
+app.URLs.deliveryStart = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/CODelivery-Start";
+app.URLs.getFullProductUrl = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/Product-Show";
+app.URLs.getProductUrl = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Product-Show";
+app.URLs.getVariants = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Product-GetVariants";
+app.URLs.getMasterAvailability = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Product-GetMasterAvailability";
+app.URLs.getAvailability = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Product-GetAvailability";
+app.URLs.loadingSmallImg = "/on/demandware.static/Sites-adidas-CO-Site/-/default/dw5c480602/images/loading-small.gif";
+app.URLs.formatMoney = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Product-FormatPrices";
+app.URLs.removeImg = "/on/demandware.static/Sites-adidas-CO-Site/-/default/dw8630f1d8/images/icon_remove.gif";
+app.URLs.getProductTileList = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/ProductTiles-GetTiles";
+app.URLs.getAssetContent = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Page-Include";
+app.URLs.jsonConfiguratorLink = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/Configurator-GetJsonURL";
+app.URLs.sendToFriend = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/SendToFriend-Start";
+app.URLs.deliverySubmits = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/CODelivery-Submits";
+app.URLs.blankImg = "/on/demandware.static/Sites-adidas-CO-Site/-/default/dw08ae4b88/images/blank.gif";
+app.URLs.showImage = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/Product-ShowImage";
+app.URLs.searchSuggestURL = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/SearchAuxiliar-GetSuggestions";
+app.URLs.viewAllSuggestURL = "/search";
+app.URLs.showCartURL = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/Cart-Show";
+app.URLs.lookupEmail = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/CODelivery-LookupEmail";
+app.URLs.paymentPage = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/COSummary-Start";
+app.URLs.loginValidationURL = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/ShopRunner-ValidateToken";
+app.URLs.getShipmentMethods = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/CODelivery-GetShippingOptions";
+app.URLs.storeSelectedPostamat = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/COShipping-StorePostamat";
+app.URLs.savePostNumberID = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/OmniChannel-setPostNumberId";
+app.URLs.fillInScheduledDelivery = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/CODelivery-FillInScheduledDelivery";
+app.URLs.getAddressTemplate = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/CODelivery-GetAddressTemplate";
+app.URLs.getEPOCHAvailability = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/OmniChannel-GetEPOCHAvailability";
+app.URLs.getUspBar = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Page-GetUSPBar";
+app.URLs.productComparisonPage = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/ProductAuxiliar-Comparison";
+app.URLs.setSubscriptionFlagUrl = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/COPayment-SetNewsletterFlag";
+app.URLs.getAllocationTimer = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Cart-ShowAllocationTimer";
+app.URLs.createComingSoonSignup = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/SCV-CreateCommingSoonSignup";
+app.URLs.PERSONALIZATION_BASE_URL = "https://qa.cfg.adidas.dk/";
+app.URLs.deleteUnavailableProducts = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/OmniChannel-DeleteUnavailableProducts";
+app.URLs.getSalesContracts = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/COPayment-GetSalesContract";
+app.URLs.getAvailableSizes = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Product-GetAvailableSizes";
+app.URLs.PERSONALIZATION = {
+ppr: "/configurator/services/miadidas-configurator/ppdo/article/{article}/region/{region}/channel/{channel}/partner/{partner}",
+rr: "/configurator/services/miadidas-configurator/pRecipeService/recipeIdent/{recipeIdent}/region/{region}/channel/{channel}/partner/{partner}",
+plr: "/configurator/services/miadidas-configurator/sldProfanity/productTypeId/{productType}/region/{region}/channel/{channel}/partner/{partner}",
+ic: "/configurator/services/miadidas-configurator/pRecipeService/validateinventory/deductInventory/{deductInventory}/region/{region}/channel/{channel}/partner/{partner}"
+};
+app.URLs.getBVReviews = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/ProductAuxiliar-GetBVReview";
+app.URLs.HelpSuggest = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/Help-Suggest?q=";
+app.URLs.editOrderEmail = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/OrderTracker-EditOrderEmail";
+app.URLs.editOrderPhone = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/OrderTracker-EditOrderPhone";
+app.URLs.cartUpdateItems = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Cart-UpdateItems";
+app.URLs.orderTrack = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Order-Track";
+app.URLs.updateColorVariation = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Wishlist-GetColorVariation";
+app.URLs.addressList = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/Address-List";
+app.URLs.login = "/account-login";
+// Preferences
+app.displayCarrierName = true;
+app.CommissionJunctionEnable = false;
+app.noneCom = false;
+app.shoprunnerEnabled = false;
+app.epochShipFromStoreEnabled = false;
+app.shoprunnerRetailerID = "null";
+app.shoprunnerEnvironmentID = "1";
+app.minimumInstallmentAmount = "10000.0";
+app.guestWishlistLifeAgeDays = "30 day";
+app.wishlistCookieName = "wishlist";
+app.stickyBag = "true";
+app.epochShipFromStoreEnabled = "false";
+app.applyLazyLoadFix = "true";
+app.enableProductPriceTracking = "true";
+app.iccdSourceID = "null";
+app.enableSalesContract = false;
+app.enableBINCheckForInstallments = false;
+app.rbkStyleRefreshEnabled = "false";
+app.contentURL = undefined;
+/*constants*/
+app.constants.AVAIL_STATUS_IN_STOCK="IN_STOCK";
+app.constants.AVAIL_STATUS_PREORDER="PREORDER";
+app.constants.AVAIL_STATUS_BACKORDER="BACKORDER";
+app.constants.AVAIL_STATUS_NOT_AVAILABLE="NOT_AVAILABLE";
+app.constants.AVAIL_STATUS_PREVIEW="PREVIEW";
+app.constants.LOCALE="es_CO";
+app.constants.LOCALE_COUNTRY="CO";
+app.constants.SITE_ID="adidas-CO";
+app.constants.LAZY_LOAD_SPACE="400";
+app.constants.PRODUCT_MAX_QTY_THRESHOLD="3";
+app.constants.GENERIC_MAX_QTY_THRESHOLD="3";
+app.constants.CURRENCY_CODE = "COP";
+app.constants.HIDE_SHIPPING_METHODS_ON_CART = true;
+app.constants.GLOBAL_TEMPLATE = "true";
+app.constants.ADDRESS_VALIDATION_PROVIDER = "No validation";
+app.constants.ADDRESS_DOCTOR_IMPROVEMENT = "false";
+app.constants.ADDRESS_DOCTOR_POPUP_TITLE = "Verifica tu dirección";
+app.constants.DYNAMIC_TERMS_CONDITIONS = true;
+app.constants.DEFAULT_RADIUS = 100;
+app.constants.USE_SPLITTED_DELIVERY = false;
+app.constants.BV_COLLAPSE_REVIEWS = false;
+app.constants.UPS_INTERVAL_MESSAGING = 3;
+app.constants.PERSONALIZATION_CHANNEL = "1";
+app.constants.PERSONALIZATION_PARTNER = "null";
+app.constants.GOOGLE_MAP_API = "AIzaSyAe_qtFRImkeBQ4p3JEzdKV3HP9Im6qiog";
+/*resources*/
+app.resources["LIMIT_QUANTITY"]="Oferta limitada a {0} artículos por pedido";
+app.resources["MISSINGVAL"]="Por favor, introduce {0}";
+app.resources["SERVER_ERROR"]="¡La conexión con el servidor ha fallado!";
+app.resources["MISSING_LIB"]="La consulta es indefinida.";
+app.resources["MISSING_APP_LIB"]="app is undefined.";
+app.resources["BAD_RESPONSE"]="Respuesta incorrecta, error de análisis";
+app.resources["INVALID_PHONE"]="Introduce un número de teléfono válido.";
+app.resources["REMOVE"]="Eliminar";
+app.resources["QTY"]="Cantidad";
+app.resources["SEARCH_TEXT"]="Buscar";
+app.resources["NOHITS_SEARCH_TEXT"]="Buscar";
+app.resources["PRICE_EXAMPLE"] = '$1.234';
+app.resources["SHIPPINGCOSTFREE"] = "Gratis";
+app.resources["NO_REVIEWS"]="No hay comentarios para este producto";
+app.resources["MOBILE_COOKIE_EXPIRATION_DATE"] = "null";
+app.resources["DEV_INSTANCE_WARNING"] = "This is NOT A LIVE SITE. This is test environment. Do NOT place orders.";
+app.resources["SIZE_LABEL"] = "Tamaño";
+app.resources["GLOBAL_UPDATE"] = "Actualizar";
+app.resources["GLOBAL_LOADING"] = "Loading";
+app.resources["GLOBAL_CONFIRM_UPDATE"] = "Confirm your update";
+app.resources["CLICKCOLLECT_UNAVAILABLE_TITLE_MESSAGE"] = "Because of an update to your bag, click & collect is no longer available and delivery times have changed.";
+app.resources["CLICKCOLLECT_UNAVAILABLE_MESSAGE"] = "Please select one of the updated delivery options and time-slots below.";
+app.resources["CLICKCOLLECT_AVAILABLE_TITLE_MESSAGE"] = "Because of an update to your bag, click & collect and new delivery times and are now available.";
+app.resources["CLICKCOLLECT_AVAILABLE_MESSAGE"] = "Please select one of the updated delivery options and time-slots below.";
+app.resources["MINICART_CLICKCOLLECT_UNAVAILABLE"] = "With this update to your bag, click & collect is now available and your delivery times will change. You will be taken back to the delivery page.";
+app.resources["MINICART_CLICKCOLLECT_AVAILABLE"] = "With this update to your bag, click & collect will no longer be available and your delivery times will change. You will be taken back to the delivery page.";
+app.resources["CLICKCOLLECT_SCHEDULED_DELIVERY_UNAVAILABLE_TITLE_MESSAGE"] = "Because of an update to your bag, click & collect and sechulded delivery are no longer available and delivery times have changed.";
+app.resources["CLICKCOLLECT_SCHEDULED_DELIVERY_UNAVAILABLE_MESSAGE"] = "Please select one of the updated delivery options and time-slots below.";
+app.resources["CLICKCOLLECT_SCHEDULED_DELIVERY_AVAILABLE_TITLE_MESSAGE"] = "Because of an update to your bag, click & collect, scheduled delivery and new delivery times  are now available.";
+app.resources["CLICKCOLLECT_SCHEDULED_DELIVERY_AVAILABLE_MESSAGE"] = "Please select one of the updated delivery options and time-slots below.";
+app.resources["CLICKCOLLECT_AVAILABLE_TIMEINTERVAL_TITLE_MESSAGE"] = "Because you updated your bag, new delivery times are now available.";
+app.resources["CLICKCOLLECT_AVAILABLE_TIMEINTERVAL_MESSAGE"] = "Please select one of the updated delivery time-slots";
+app.resources["MINICART_TIMEINTERVAL"] = "With this update, your delivery times will change. You will be taken back to the delivery page.";
+app.resources["MINICART_CLICKCOLLECT_SCHEDULED_DELIVERY_UNAVAILABLE"] = "With this update to your bag, click & collect and scheduled delivery will no longer be available and your delivery times will change . You will taken back to the delivery page.";
+app.resources["MINICART_CLICKCOLLECT_SCHEDULED_DELIVERY_AVAILABLE"] = "With this update to your bag, click & collect and scheduled delivery are now available and your delivery times will change. You will be  taken back to the delivery page.";
+app.resources["PROCESSING_PAYMENT"] = "Procesando pago";
+app.resources.PERSONALIZATION_TEXTS = {
+'nameAndNumber': "Añade el nombre y número",
+'pName-pNumber.nameAndNumber.textwithDropDown': "Inspírate",
+'pName-pNumber.nameAndNumber': "Pon tu nombre y número",
+'pName-pNumber.nameOfnameAndNumber': "Nombre",
+'pName-pNumber.numberOfnameAndNumber': "00",
+'pNumber.nameAndNumber.textNumber': "Text",
+'pName-pName-pNumber.nameAndNumber.textwithDropDown': "Inspírate",
+'pName-pName-pNumber.nameAndNumber': "Pon tu nombre y número",
+'pName-pName-pNumber.nameOfnameAndNumber': "personalization.pName-pName-pNumber.nameOfnameAndNumber.displayText",
+'pName-pName-pNumber.numberOfnameAndNumber': "personalization.pName-pName-pNumber.numberOfnameAndNumber.displayText",
+'pName-pName-pNumber.nameOnly': "personalization.pName-pName-pNumber.nameOnly.displayText",
+'pNumber.pNumber': "00",
+'left_text.text': "Pie izquierdo (A-Z, 0-9)",
+'right_text.text': "Pie derecho (A-Z, 0-9)"
+};
+app.resources["GORKY_PARK_ADDRESS"] = "";
+app.resources["GORKY_PARK_NAME"] = "Gorky Park";
+/* postal code lookup*/
+app.resources["ENABLE_POSTAL_CODE_LOOKUP"] = false;
+app.resources["POSTAL_CODE_LOOKUP_MANUAL"] = null;
+app.resources["POSTAL_CODE_LOOKUP_BILLING_MANUAL"] = null;
+app.resources["CODELIVERY_POSTAL_CODE_LOOKUP_MANUAL"] = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/CODelivery-PostalCodeLookUpManual";
+app.resources["POSTAL_LOADING"] = "Loading...";
+app.resources["POSTAL_FINDADDRESS"] = "Find Address";
+app.resources["POSTAL_NO_ADDRESS_SUGGESTION"] = "Adderess not found? <span class='postal-enter-manually'>Enter manually</span>";
+app.resources["POSTAL_NO_ADDRESS_SUGGESTION_MOBILE"] = "Adderess not found? Enter manually";
+app.resources["SELECT_YOUR_ADDRESS"] = "Select your address";
+app.resources["EDIT_YOUR_ADDRESS"] = "Modificar la dirección";
+app.resources["POSTAL_LOADING_ERROR_SELECT_ADDRESS"] = "Please choose your address";
+app.resources["ADDRESS_SUGGESTION_FAIL_SERVICE"] = "We are sorry, validation service is unavailable right now";
+app.resources["PRELIMINARYCONTRACT_ERROR_MESSAGE"]="forms.salescontract.prelimerror.message";
+app.resources["SALESCONTRACT_ERROR_MESSAGE"]="forms.salescontract.saleserror.message";
+/*product availability messages*/
+app.resources["IN_STOCK"]="disponible";
+app.resources["QTY_IN_STOCK"]="{0} unidad(es) con inventario disponible";
+app.resources["PREORDER"]="<span style=\"color:green;font-weight:bold;\">Resérvalo ahora!</span>Solo quedan {0} días para hacer tu reserva";
+app.resources["QTY_PREORDER"]="{0} unidad(es) se pueden encargar.";
+app.resources["REMAIN_PREORDER"]="El resto de artículos se pueden encargar.";
+app.resources["BACKORDER"]="Pedido pendiente";
+app.resources["QTY_BACKORDER"]="Pedido pendiente de {0} artículo(s)";
+app.resources["REMAIN_BACKORDER"]="El resto de artículos estarán disponibles próximamente y se pueden hacer pedidos.";
+app.resources["NOT_AVAILABLE"]="Este artículo no está disponible actualmente.";
+app.resources["REMAIN_NOT_AVAILABLE"]="El resto de artículos no está disponible en estos momentos. Por favor, ajusta la cantidad.";
+app.resources["IN_STOCK_DATE"]="Se espera que estén disponibles en inventario el  {0}.";
+app.resources["NON_SELECTED"]="No ha sido seleccionado";
+app.resources["MISSING_VAL"]="Seleccionar {0}";
+app.resources["SIZECHART_TITLE"]="Guía de tallas";
+app.resources["SEND_TO_FRIEND"]="Enviar a un amigo";
+app.resources["CHANGE_EMAIL_ADDRESS"]="Cambiar correo electrónico";
+app.resources["CHANGE_PHONE_NUMBER"]="Cambiar número de teléfono";
+app.resources["QTY_LIMIT_MESSAGE"]="Solo quedan {0} en nuestros almacenes";
+app.resources["LOW_LIMIT_MESSAGE"]="Últimas unidades";
+app.resources["REORDER"]="VOLVER A REALIZAR EL PEDIDO";
+/*add resources for preview*/
+app.resources["PREVIEW"]="<span class=\"callout-bar-headline\">¡PRÓXIMAMENTE!</span><span class=\"callout-bar-short\"><span class=\"callout-bar-text\">Disponible en </span><span class=\"callout-bar-day-count\">{0} día(s)</span></span>";
+app.resources["COMING_SOON_IN_HOURS_AND_MINUTES"]="<span class=\"callout-bar-headline\">¡PRÓXIMAMENTE!</span><span class=\"callout-bar-short\"><span class=\"callout-bar-text\">Disponible en </span><span class=\"callout-bar-day-count\">{0} horas y {1} minutos</span></span>";
+app.resources["COMING_SOON_IN_MINUTES"]="<span class=\"callout-bar-headline\">¡PRÓXIMAMENTE!</span><span class=\"callout-bar-short\"><span class=\"callout-bar-text\">Disponible en </span><span class=\"callout-bar-day-count\">{0} minutos</span></span>";
+app.resources["ADD_TO_CART_COMING_SOON"]="¡PRÓXIMAMENTE!";
+app.resources["ADD_TO_CART_PREORDER"]="PRE-VENTA";
+/* bonus products messages*/
+app.resources["BONUS_PRODUCTS"]="Producto/s de regalo";
+app.resources["SELECT_BONUS_PRODUCT"]="Seleccionar";
+app.resources["BONUS_PRODUCT_MAX"]="Ya has seleccionado el número máximo de productos de regalo. Por favor, si quieres añadir otros productos de regalo tendrás que eliminar uno.";
+app.resources['QUICKVIEW_TITLE']="Vista rápida";
+app.resources['ADD_TO_CART_BUTTON_TITLE']="Añadir al carrito";
+app.resources['PRE_ORDER_BUTTON_TITLE']="PRE-VENTA";
+app.resources['BACK_ORDER_BUTTON_TITLE']="Añadir pedido en espera al carrito";
+app.resources['UPDATE_BUTTON_TITLE']="Actualizar";
+/*Comparison*/
+app.resources["COMPARE_SINGLE"] ="{0}/{1} seleccionado";
+app.resources["COMPARE_PLURAL"] ="{0}/{1} seleccionado";
+app.resources["COMPARE_INFORM"] ="0/{0} seleccionado";
+app.resources["QUICKVIEW_TITLE_WISHLIST"]="Detalles del producto";
+/* miproduct page*/
+app.resources["BLOCKER_MESSAGE_title"]="Hay cambios sin guardar";
+app.resources["BLOCKER_MESSAGE_message"]="Hay cambios sin guardar. ¿Estás seguro de que quieres salir del configurador?";
+app.resources["BLOCKER_MESSAGE_button_continue"]="Continuar sin guardar";
+app.resources["BLOCKER_MESSAGE_button_cancel"]="Cancelar";
+app.resources["BLOCKER_MESSAGE_survey_text"]="Help us make customization even easier.<br />Please tell us what you think.";
+app.resources["BLOCKER_MESSAGE_survey_linktext"]="Take our survey";
+app.resources["DESIGN_GALLERY_TITLE"]="Búsqueda Diseños";
+app.resources["DESIGN_GALLERY_CLOSE1"]="La";
+app.resources["DESIGN_GALLERY_CLOSE2"]="Galería";
+/* personalization*/
+app.resources["LEARN_MORE_URL"] = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Page-Include?cid=personalization-learn-more";
+app.resources["LEARN_MORE_URL_FTW"] = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Page-Include?cid=personalization-learn-more-ftw";
+app.resources["LEARN_MORE_TITLE"] = "?";
+app.resources["PERSONALIZED_PRODUCT_BASKET_CHECK_URL"] = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Cart-PersonalizedProductCountInBasket?size=13";
+app.resources["TOO_MANY_PERSONALIZED_IN_BASKET"] = "You added to many personalization products to the basket";
+app.resources["OUT_OF_STOCK"] = "Lo sentimos, nuestro sistema no permite este texto/número. Inténtalo de nuevo.";
+app.resources["OUT_OF_STOCK_SPECIFIC"] = "Lo sentimos, el carácter {0} no está disponible en estos momentos. Introduce otra letra o número.";
+app.resources["OUT_OF_STOCK_LETTER"] = "Lo sentimos, el carácter {0} no está disponible en estos momentos. Introduce otra letra.";
+app.resources["OUT_OF_STOCK_NUMBER"] = "Lo sentimos, el carácter {0} no está disponible en estos momentos. Introduce otro número.";
+app.resources["BADGE_OUT_OF_STOCK"] = "Lo sentimos, una o varias de las insignias que has elegido están agotadas";
+app.resources["SERVICE_ERROR"] = "Lo sentimos, pero algo ha fallado. ¿Puedes volver a intentarlo?";
+app.resources["PERSONALIZATION_BASE_URL"] = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/PersonalizationService-Start";
+app.resources["NOT_VALID_INPUT_PERSONALIZATION"] = "Nuestro sistema no permite este texto/número. Inténtalo de nuevo.";
+app.resources["NOT_VALID_FOR_ONLY_NAME_INPUT_PERSONALIZATION"] = "Lo sentimos, solo puedes introducir letras.";
+app.resources["NOT_VALID_FOR_ONLY_NUMBERS_INPUT_PERSONALIZATION"] = "Lo sentimos, solo puedes introducir números.";
+app.resources["NOT_SUPPORTED_INPUT_PERSONALIZATION_SINGULAR"] = "El símbolo {0} no está disponible en nuestro sistema. Lo sentimos. Introduce un carácter distinto.";
+app.resources["FORBIDDEN_INPUT_PERSONALIZATION"] = "Lo sentimos, pero la expresión {0} no cumple las normas de nuestra política de personalización. Introduce otra palabra.";
+app.resources["NOT_VALID_INPUT_SPECIFY_VALUE"] = "Indica el tipo de campo";
+app.resources["PERSONALIZATION_ADD_A_BADGE"] = "Añadir una insignia";
+app.resources["PERSONALIZATION_PREVIEW"] = "Vista previa";
+app.resources["MIADIDAS_BASE_URL"] = "https://qa.cfg.adidas.dk/";
+app.resources["CLEAR_ALL"] = "Borrar todo";
+app.resources["FOOTWEAR_HEADER"] = "Añade algo";
+app.resources["MORE_INFORMATION"] = "MORE INFORMATION";
+/* search suggestions*/
+app.resources["ENABLE_DEMANDWARE_SUGGESTIONS"] = true;
+app.resources["ENABLE_CATEGORY_SUGGESTIONS"] = false;
+app.resources["ENABLE_PRODUCT_SUGGESTIONS"] = true;
+app.resources["MINIMUM_CHARACTERS_FOR_SUGGESTION"] = 3;
+app.resources["SEARCH_SUGGESTIONS"] = "Sugerencias";
+app.resources["CATEGORY_SUGGESTIONS"] = "Categorías";
+app.resources["PRODUCT_SUGGESTIONS"] = "Productos";
+app.resources["PRODUCT_SUGGESTIONS_PRICE"] = "Price:";
+app.resources["VIEW_ALL_RESULTS_SUGGESTIONS"] = "Todos";
+// redirects
+app.resources["REDIRECT_TITLE"] = "Serás redirigido";
+app.resources["REDIRECT_CTA"] = "CONTINUAR";
+app.resources["REDIRECT_MESSAGE"] = "a nuestra tienda adidas online de {0}. Allí encontrarás la gama más amplia de productos de {1}. Tus datos de acceso serán los mismos, pero dispondrás de un carrito de la compra diferente. Si tienes alguna pregunta, el equipo de atención al cliente de deportes específicos está a tu disposición.";
+app.resources["REDIRECT_HOSTNAMES"] = "y-3,adidasbodycare,adidasspecialtysports,adidashardware";
+app.resources["REDIRECT_NAMES"] = "";
+/* CO DocumentTypeID validation */
+app.resources["FORMS_DOCUMENTTYPEID_NIT_ERROR"] = "Por favor introduzca su NIT de 9 dígitos (solo números, sin dígito verificador)";
+app.resources["FORMS_DOCUMENTTYPEID_CC_ERROR"] = "Por favor introduzca un valor numérico de 5 a 10 dígitos";
+app.resources["FORMS_DOCUMENTTYPEID_CE_ERROR"] = "Por favor introduzca su CE de 6 dígitos (solo números)";
+app.resources["FORMS_DOCUMENTTYPEID_Pasaport_ERROR"] = "Por favor introduzca un valor entre 5 a 13 caracteres";
+app.resources["FORMS_DOCUMENTTYPEID_TI_ERROR"] = "Por favor introduzca su TI de 10-11 dígitos (solo números)";
+app.resources["FORMS_DOCUMENTTYPEID_RC_ERROR"] = "Por favor introduzca su Registro Civil de hasta 15 dígitos (solo números y letras)";
+app.resources["FORMS_DOCUMENTTYPEID_TE_ERROR"] = "Por favor introduzca su Tarjeta de Extranjería de hasta 15 dígitos (solo números y letras)";
+app.resources["FORMS_DOCUMENTTYPEID_DIE_ERROR"] = "Por favor introduzca su Documento de Identificación Extranjero	de hasta 15 dígitos (solo números y letras)";
+app.resources["FORMS_DOCUMENTTYPEID_NUIP_ERROR"] = "Por favor intruduzca su NUIP de hasta 10 digitos (sólo números)";
+app.resources["FORMS_DOCUMENTTYPEID_NDOP_ERROR"] = "Por favor intruduzca su Nit de otro país de hasta 14 digitos (sólo números y letras)";
+/* PE DocumentTypeID validation */
+app.resources["FORMS_DOCUMENTTYPEID_RUC_ERROR"] = "forms.documentTypeId.RUC.error";
+app.resources["FORMS_DOCUMENTTYPEID_DNI_ERROR"] = "forms.documentTypeId.DNI.error";
+app.resources["FORMS_DOCUMENTTYPEID_CDE_ERROR"] = "forms.documentTypeId.CDE.error";
+/* waitlist*/
+app.resources["WAITLIST"] = true;
+/* expandable block*/
+app.resources["EXPANDABLE_READ_MORE"] = "Ver más";
+app.resources["EXPANDABLE_READ_LESS"] = "Ver menos";
+/* Adyen*/
+app.resources["ADYENERRORS_CARD_EXPIRED"] = "errorforms.adyenencrypted.expiryDate.valueerror";
+/*NEWSLETTERS*/
+app.resources['VALID_EMAIL_ERROR'] = "Introduce una dirección de correo electrónico válida";
+app.resources['NEWSLETTER_SUBSCRIBE_URL'] = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/Newsletter-Subscribe";
+app.resources['NEWSLETTER_SUBSCRIBE_FOOTER_LABEL'] = "ÚNETE AL UNIVERSO ADIDAS, CONOCE LAS NOVEDADES Y OBTÉN <span style='color: #92d39f;'>15% DE DESCUENTO</span>";
+app.resources['LEGAL_NEWSLETTER_AGE_CONSENTTYPE'] = "checkbox";
+app.resources['SIGNUPANDSAVE_GENERAL_ERROR'] = "Ups, ¡lo sentimos! Por razones de mantenimiento nuestro servicio no está disponible.";
+app.resources["PRODUCT_ADDED_TO_CART"] ="Product added to cart";
+app.resources["PRODUCT_SELECT_SIZE"] = "Elige tu talla";
+app.resources["PRODUCT_PLEASE_SELECT_SIZE"] = "Por favor, selecciona tu talla";
+app.resources["VIDEO_PLAYLIST_ID"] = "lSGf2BXW2nRS";
+app.resources["FORM_REGEXP_EMAIL"] = "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z\\d]{2,9}$";
+app.resources["FORM_REGEXP_ZIPCODE"] = "^[0-9]{6}$";
+app.resources["FORM_REGEXP_PHONE"] = "^(\\+){0,1}\\d{8,15}$";
+app.URLs.getProductUrl = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Product-Show";
+app.URLs.getVariants = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Product-GetVariants";
+app.URLs.getAvailability = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Product-GetAvailability";
+app.URLs.loadingSmallImg = "/on/demandware.static/Sites-adidas-CO-Site/-/default/dw5d6a2c41/images/loading-small-mobile.gif";
+app.URLs.formatMoney = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Product-FormatPrices";
+app.URLs.getAssetContent = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Page-Include";
+app.URLs.lookupEmail = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/CODelivery-LookupEmail";
+app.URLs.updateShippingMethodAjax = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/Cart-UpdateShippingMethodAjax";
+app.URLs.cartSummaryBlock = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/Cart-GetCartSummaryBlock";
+app.URLs.updateCartSummaryBlock = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/Cart-UpdateCartSummarySectionWithPayment";
+app.URLs.validateCCBIN = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/COPayment-ValidateCCBIN";
+// shipping
+app.resources["SHIPPING_METHOD_DEPENDENCIES"] = "%7B%22dwfrm_delivery_singleshipping_shippingAddress_addressFields_zip%22%3A%20%22postalCode%22%2C%20%22dwfrm_delivery_singleshipping_shippingAddress_addressFields_city%22%3A%20%22city%22%7D";
+
+app.resources["PROFILE_TERMSCONDITIONS"] = "Términos y condiciones";
+app.resources["PROFILE_PRIVACYPOLICY"] = "Aviso de privacidad";
+app.resources["PROFILE_WHATDOESTHATMEAN"] = "What does that mean?";
+app.resources["PROMO_CODE_VALIDATION_URL"] = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Cart-Submits";
+/*coming soon*/
+app.resources["COMING_SOON_GENERAL_ERROR"] = "Lo sentimos, el servicio de suscripción no está disponible. Inténtalo más tarde.";
+/*OMX*/
+app.resources["OMX_IS_USED"] = false;
+/*storelocator*/
+app.resources["STORELOCATOR_PICKUPINDAYS_PARTONE"] = "Disponible para recoger en tienda dentro de";
+app.resources["STORELOCATOR_PICKUPINDAYS_PARTTWO"] = "días laborables";
+app.resources["SEARCH_HAS_NO_RESULTS"] = "Lo sentimos, no hemos podido encontrar ningún producto para sus criterios de búsqueda.";
+app.resources["ENABLE_WISHLIST_ON_CART"] = true;
+app.resources["ENABLE_WISHLIST_GLOBALLY"] = true;
+app.URLs.wishlistAjax = "/on/demandware.store/Sites-adidas-CO-Site/es_CO/Wishlist-ShowAjax";
+app.isPostamatEnabled = false;
+app.isCollectPointEnabled = false;
+app.isClickCollectEnabled= false;
+
+
+
+   	app.resources["COUNTRY_RELY_ON_COOKIE"] = false;
+
+app.disableWorkaroundForTrusteOverlay = false
+app.constants.PERSONALIZATION_LOCALE = "es_CO";
+
+app.isMobile = false;
+
+
+app.resources["ICCD_AUTH_CHK_0003"] = "Dirección de correo electrónico no es válida";
+app.resources["ICCD_AUTH_CHK_0004"] = "Su contraseña ha caducado. Una nueva contraseña ha sido enviada a su correo electrónico.";
+app.resources["ICCD_AUTH_CHK_0005"] = "La cuenta está bloqueada";
+app.resources["ICCD_AUTH_CHK_0006"] = "Bajo el requisito de edad mínima";
+app.resources["ICCD_AUTH_CHK_0008"] = "Parece que tu dirección de correo electrónico o tu contraseña son incorrectos. ¿Quieres intentarlo otra vez?";
+app.resources["ICCD_AUTH_CHK_0013"] = "La cuenta está bloqueada";
+app.resources["ICCD_AUTH_CHK_0014"] = "¡Lo sentimos! El sitio no está disponible debido a mantenimiento. Los pedidos pueden ser colocados como invitado.";
+app.resources["CCD_RST_PWD_0002"] = "Nombre de usuario o contraseña incorrecta";
+app.resources["CCD_RST_PWD_0003"] = "La cuenta está bloqueada";
+app.resources["CCD_RST_PWD_0004"] = "Dirección de correo electrónico no es válida";
+app.resources["CCD_RST_PWD_0005"] = "¡Lo sentimos! El sitio no está disponible debido a mantenimiento. Los pedidos pueden ser colocados como invitado.";
+app.resources["CCD_RST_PWD_0006"] = "Dirección de correo electrónico no es válida";
+app.resources["CCD_VLD_RST_PWD_0006"] = "El correo electrónico no existe o contraseña incorrecta.";
+app.resources["CCD_VLD_RST_PWD_0007"] = "¡Lo sentimos! El sitio no está disponible debido a mantenimiento. Los pedidos pueden ser colocados como invitado.";
+app.resources["CCD_VLD_RST_PWD_0008"] = "Consumidor autenticado pero la cuenta ha sido bloqueada.";
+app.resources["ICCD_RST_PWD_0005"] = "La contraseña tiene que tener como mínimo una letra y un número, y al menos 8 caracteres";
+app.resources["ICCD_RST_PWD_0006"] = "¡Lo sentimos! El sitio no está disponible debido a mantenimiento. Los pedidos pueden ser colocados como invitado.";
+app.resources["ICCD_CRT_ACCT_0002"] = "Correo electrónico con formato inválido";
+app.resources["ICCD_CRT_ACCT_0003"] = "Esta dirección de correo electrónico ya existe. Por favor, introduce tus datos o restablece tu contraseña.";
+app.resources["ICCD_CRT_ACCT_0004"] = "Correo electrónico existe como correo electrónico de Comunicación";
+app.resources["ICCD_CRT_ACCT_0005"] = "Por favor verifica que tu contraseña contiene como mínimo una letra, un número y tiene por lo menos 8 caracteres";
+app.resources["ICCD_CRT_ACCT_0006"] = "El consumidor  está por debajo de la edad mínima de acceso. Tiene que tener por lo menos 18 años";
+app.resources["ICCD_CRT_ACCT_0007"] = "El día de nacimiento o la confirmación de edad mínima tienen que ser proporcionados.";
+
+app.resources["EMAIL_SUGGESTION_DOMAINS"] = ['msn.com', 'bellsouth.net','telus.net', 'comcast.net', 'optusnet.com.au','earthlink.net', 'qq.com', 'sky.com', 'icloud.com','mac.com', 'sympatico.ca', 'googlemail.com','att.net', 'xtra.co.nz', 'web.de','cox.net', 'gmail.com', 'ymail.com','aim.com', 'rogers.com', 'verizon.net','rocketmail.com', 'google.com', 'optonline.net','sbcglobal.net', 'aol.com', 'me.com', 'btinternet.com','charter.net', 'shaw.ca', 'yahoo.com', 'adidas.com'];
+app.resources["EMAIL_SUGGESTION_TOPLEVELDOMAINS"] = ["com", "com.au", "com.tw", "ca", "co.nz", "co.uk", "de", "fr", "it", "ru", "net", "org", "edu", "gov", "jp", "nl", "kr", "se", "eu", "ie", "co.il", "us", "at", "be", "dk", "hk", "es", "gr", "ch", "no", "cz", "in", "net", "net.au", "info", "biz", "mil", "co.jp", "sg", "hu", "uk"];
+app.resources["EMAIL_SUGGESTION_SECONDARYDOMAINS"] = ["yahoo", "hotmail", "mail", "live", "outlook", "gmx"];
+app.resources["EMAIL_SUGGESTION_SUGGESTIONTEXT"] = "¿Querés decir";
+app.resources["EMAIL_SUGGESTION_CORRECTEDTEXT"] = "Hemos corregido tu correo electrónico";
+/* GDPR */
+app.enableHeaderSignupOverlayGDPR = false;
+app.enableCheckoutNewsletterGDPR = false;
+/* Exchanges */
+
+return app;
+}(app));app.define&&app.define('app.resources',function(){return app;});
+
+
+app.URLs.currentMobileUrl = "https://www.adidas.co/s/Sites-adidas-CO-Site/dw/shared_session_redirect?url=https%3A%2F%2Fm.adidas.co%2Fmapa-del-sitio.html";
+(function (app, init) {
+var getWaitLoading = function (callback) {
+var loading = 0,
+loaded = 0;
+return function (script) {
+var tid;
+loading++;
+script.onload = script.onreadystatechange = function() {
+if (!this.readyState || this.readyState === "loaded" || this.readyState === "complete") {
+if (tid) {
+clearTimeout(tid);
+}
+if (++loaded === loading) {
+callback();
+}
+}
+};
+tid = setTimeout(function () {
+script.onload = script.onreadystatechange = undefined;
+if (++loaded === loading) {
+callback();
+}
+}, 1000 * 10);
+};
+};
+app.firstDomReady = new jQuery.Deferred();
+jQuery(function () {
+app.firstDomReady.resolve();
+});
+if (app.isBuilded === true) {
+var scripts = app.bundlesRequired,
+head = document.getElementsByTagName("head")[0] || document.documentElement,
+loader = getWaitLoading(function(){
+init();
+});
+for (var i = 0; i < scripts.length; ++i) {
+var script = document.createElement('SCRIPT');
+script.setAttribute('type','text/javascript');
+script.async=true;
+script.src=scripts[i];
+loader(script);
+head.appendChild(script);
+}
+} else {
+init();
+}
+}(window.app, function () {
+
+
+
+app.require.config({
+baseUrl: "https://www.adidas.co/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/js",
+catchError: true,
+paths: {
+
+"avplayer": "//www.adidas.com/video/com/assets/js/aplayer",
+"ComponentMgr": "core/component/ComponentMgr",
+"Component": "core/component/Component",
+"PageContext": "utils/PageContext",
+"Analytics": "utils/Analytics",
+"jstorage": "vendor/jstorage.min"
+},
+waitSeconds: 0,
+map: {
+"*": {
+"styles": "vendor/require-css",
+"instance": "utils/require-instance",
+"text": "utils/require-text"
+}
+},
+shim: {
+},
+deps: [
+null,
+"jquery",
+"app.resources",
+"ComponentMgr",
+"PageContext",
+"Analytics",
+"utils/forms",
+"core/Application",
+"component/analytics/CertonaRecommendations",
+"vendor/modernizr.custom",
+"utils/social-sharing",
+"utils/jquery-ext",
+"utils/notification-broker"
+],
+callback: function (dependencies, jQuery, res, ComponentMgr, PageContext, Analytics, forms, Application, CertonaRecommendations, Modernizr, socialSharing) {
+app.firstDomReady.then(function () {
+ComponentMgr.selectorToComponent({
+'.showdialog': 'common/ShowDialog',
+'.showpopup': 'common/Popup',
+'.showtooltip': 'common/Popover',
+'.collapsible': 'common/Collapsible',
+'.dataswitch': 'common/Dataswitch',
+'.expandable-content': 'common/ExpandableBlocks',
+'.tooltip': 'common/Tooltip',
+'.loyaltynav': 'common/LoyaltyUniverse'
+
+});
+ComponentMgr.setRequiredComponents([
+"component/analytics/CertonaRecommendations",
+"component/common/header/Header",
+"component/common/header/SearchRedesign",
+"component/common/header/PrivacyLaw",
+"component/common/header/SignUpAndSave",
+"component/common/header/SlidePanel",
+"component/checkout/MiniCart"
+]);
+ComponentMgr.setDependencies(dependencies, "help");
+ComponentMgr.initComponents();
+});
+// this is a hack
+Application.onLoad(function () {
+jQuery('#frameContainer').css('visibility', 'visible');
+});
+}
+});
+
+}));
+</script>
+
+
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _analytics_enabled: "true",
+    _timeZone: "America/Bogota",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    },
+    eventsIsEmpty: function() {
+        return 0 == dw.ac._events.length;
+    }
+};
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'aaqx-adidas-CO';
+CQuotient.realm = 'aaqx';
+CQuotient.siteId = 'adidas-CO';
+CQuotient.instanceType = 'prd';
+CQuotient.locale = 'es_CO';
+CQuotient.fbPixelId = '__UNKNOWN__';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+CQuotient.apiHost='api.cquotient.com';
+/* Turn this on to test against Staging Einstein */
+/* CQuotient.useTest= true; */
+CQuotient.useTest = ('true' === 'false');
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  var value = c.substring('cquid='.length,c.length);
+		  if (value) {
+		  	var split_value = value.split("|", 3);
+		  	if (split_value.length > 0) {
+			  CQuotient.cquid=split_value[0];
+		  	}
+		  	if (split_value.length > 1) {
+			  CQuotient.cqeid=split_value[1];
+		  	}
+		  	if (split_value.length > 2) {
+			  CQuotient.cqlid=split_value[2];
+		  	}
+		  }
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+	if(window.CQuotient.cqeid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+	if(window.CQuotient.cqlid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	cq_params.locale = CQuotient.locale;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
+/* ]]> */
+// -->
+</script>
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+		
+			<script type="text/javascript" src="https://tags.tiqcdn.com/utag/adidas/adidasglobal/prod/utag.sync.js"></script>
+		
+	
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+		
+	
+
+
+
+
+	
+	
+	
+	
+	
+	
+		
+	
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+<link rel="canonical" href="https://www.adidas.co/ayuda/mapa-del-sitio.html">
+
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"true","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"SJ-87c5a97a-a4ee-4a5f-b7cd-b1d111d8aa81","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"true","rua.isuxp":"false","rua.texp":"norulematch"}]);</script>
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="FJNUU-P5252-CCRQ8-TUP5Q-PZWTL",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"FJNUU-P5252-CCRQ8-TUP5Q-PZWTL",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e="true"=="true"?1:0,t="",n="x2b6lyqxa6puey4o3a7a-f-888ca8b85-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"33","ak.cp":"1088007","ak.ai":parseInt("238272",10),"ak.ol":"0","ak.cr":741,"ak.ipv":4,"ak.proto":"h2","ak.rid":"21f7052b","ak.r":35814,"ak.a2":e,"ak.m":"a","ak.n":"essl","ak.bpcip":"190.131.229.0","ak.cport":54648,"ak.gh":"104.75.171.68","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1670305854","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==HJTiNfZNb532gZ0Rdi9bJ//2YcjyhJSGTHi1jATpfmndLGHYHMIHTgHqIfgSRkcFPvBe6+qMANUYZ4FMAV21GfpRA2yAFbwMZ9Ncnrw8px66LAed1H90M1zsQ1ZhjqmCZD8z15IFJkuKh0mvlO8lUn0YXdzRkWptd5Z17nVFQFSmHPqljl9DiWinYQlaNOYCkxijOiP17m7vtAau7bTMYcILq334ZYC0nwxBeoqzGNEWMiD/WK6dD/cRD7UOkxTMnLqf8log8/REJHvkmCkAa0QCHfNqHdUUjlcyEXltezwWgRqaHhGqDJL3Dgv5ng4088BrAnBpwYwRa+S36Y1o1/dzKBzNWUGekkzkKM9ZYhTUXjtGb7aXLqZ+MsMbP8KaHwefbXAl6Fzh8B0+t4bezmmqd1sPvWF/lD9IgwNh3Lw=","ak.pv":"2866","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="container" class="pt_help_categories">
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+		
+	
+
+
+
+
+	
+	
+	
+	
+	
+	
+		
+	
+
+
+
+
+	
+	
+	
+	
+	
+	
+		
+	
+
+
+
+
+	
+	
+	
+	
+	
+	
+		
+	
+
+
+
+
+	
+	
+	
+	
+	
+	
+		
+	
+
+
+
+
+	
+	
+	
+	
+	
+	
+		
+	
+
+
+
+
+	
+	
+	
+	
+	
+	
+		
+	
+
+
+
+
+	
+	
+	
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+<div class=" header-sticky-wrapper header-redesign2 header-sticky-selfservice-wrapper-main " data-component="common/header/Header" data-sticky="true" data-ci-test-id="headerBlock">
+	
+		<div class=" header-selfservice-wrapper">
+			<div id="selfservice-header" class="header-redesign header-redesign2 header-selfservice loading-resources " data-component="common/header/SlidePanel">
+				<div class="wrapper">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="selfservice-bg clearfix">
+<div class="account selfservice">
+<ul class="selfservice-list js-no-auth-parent" style="display:none">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <li class="account-item"><a href="http://www.adidas.ie/on/demandware.store/Sites-adidas-GB-Site/en_IE/Order-Track" manual_cm_sp="header-_-profilenotloggedin-_-orderstatus">order status</a></li> -->
+
+
+
+<li class="selfservice-item-suas js-no-auth">
+
+
+
+<a class="selfservice-link-suas sign-up-and-save slide-panel-btn js-header-slide-panel-btn" tabindex="1" data-panel-selector=".signupandsavecontent" title="Suscripción a la newsletter">
+Suscripción a la newsletter
+<span class="icon"></span>
+</a>
+
+
+
+</li>
+
+<li class="account-item"><a href="https://www.adidas.co/creatorsclub">Creators club</a></li>
+
+<li class="selfservice-item-login js-no-auth">
+<a class="selfservice-link-login" title="Iniciar sesión" href="https://www.adidas.co/account-login">
+Iniciar sesión
+</a>
+</li>
+
+</ul>
+<ul class="selfservice-list js-auth-parent" style="display:none">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="account-item"><a href="https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/Order-History" manual_cm_sp="header-_-profileloggedin-_-orderstatus">Historial de pedidos</a></li>
+
+
+
+<li class="selfservice-item-login active js-auth">
+<a class="selfservice-link-login" href="https://www.adidas.co/account-login" title="Mi cuenta %firstName%">Hola, %firstName%</a>
+</li>
+</ul>
+</div>
+</div>
+				</div>
+				
+				<div class="js-no-auth" style="display:none">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="signupandsavecontent selfservice-signupandsavecontent header-slide-panel js-header-slide-panel" data-component="common/header/SignUpAndSave" data-customer-code="0692535205" data-custom1="Guest">
+<div class="signupandsave_start">
+<div class="signup">
+
+	 
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="callout-bars" data-contentslot="selfservice-promo-callout" data-component="content/CalloutBar">
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+<div class="callout-bar  slot-content-contain clearfix " data-contentslot="selfservice-promo-callout" data-contentassetid="header-ssn-products" data-excludeforcustomize="true" tabindex="0">
+	
+		<img data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/default/dw44160848/logo/mail.png" width="88" height="88" class="base lazyload">
+	
+	
+	<div class="callout-bar-copy">
+		
+		
+
+		 
+			
+				<span class="readmore">Suscríbete a nuestra newsletter y entérate de todo</span>
+			
+			<div class="callout-overlay-content" data-title="Suscríbete a nuestra newsletter y entérate de todo">
+				<span class="callout-bar-body">test for products</span>
+			</div>
+		
+		
+		
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+<div class="callout-bar  slot-content-contain clearfix " data-contentslot="selfservice-promo-callout" data-contentassetid="header-ssn-free-delivery-over-150" data-excludeforcustomize="true" tabindex="0">
+	
+		<img data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/default/dw21c3e002/logo/percent.png" width="88" height="88" class="base lazyload">
+	
+	
+	<div class="callout-bar-copy">
+		
+		
+
+		 
+			
+				<span class="readmore">Ahorra un 15% en tu próximo pedido</span>
+			
+			<div class="callout-overlay-content" data-title="Ahorra un 15% en tu próximo pedido">
+				<span class="callout-bar-body"><p>Title</p></span>
+			</div>
+		
+		
+		
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+<div class="callout-bar last slot-content-contain clearfix " data-contentslot="selfservice-promo-callout" data-contentassetid="header-ssn-free-returns" data-excludeforcustomize="true" tabindex="0">
+	
+		<img data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/default/dw51bbcb91/logo/star.png" width="88" height="88" class="base lazyload">
+	
+	
+	<div class="callout-bar-copy">
+		
+		
+
+		 
+			
+				<span class="readmore">Ofertas y promociones exclusivas</span>
+			
+			<div class="callout-overlay-content" data-title="Ofertas y promociones exclusivas">
+				<span class="callout-bar-body"><p>Not the right size or colour? No problem! Your order is picked up when &amp; where you like.</p>
+
+<p>&nbsp;</p>
+
+<p>Customised products are made just for you and therefore cannot be returned.</p>
+
+<p>&nbsp;</p>
+
+<p>Check out our <a href="https://www.adidas.co/help-topics-terms_and_conditions.html">Return Policy</a> for more details.</p></span>
+			</div>
+		
+		
+		
+	</div>
+</div>
+
+
+</div>
+
+ 
+	
+</div>
+<form id="signupandsaveform" class="signupandsaveform suppress validate fancyform " action="https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/Newsletter-Submits" method="post" data-component="form/Form">
+<fieldset>
+<div class="general_error"></div>
+<div class="signupandsaveform-body clearfix">
+<div class="formfield email require">
+
+
+ 	
+ 	
+	
+	
+
+		
+			
+			
+			<label for="dwfrm_profile_customer_email" class="">
+				Correo electrónico
+				
+			</label>
+			
+		
+		
+		
+			
+			<div class="value">
+				
+				
+				
+					
+				 	
+				 	<label class="label-off" for="dwfrm_profile_customer_email"></label> <input class="textinput required focusout required" id="dwfrm_profile_customer_email" type="text" name="dwfrm_profile_customer_email" value="" maxlength="50" data-missing-error="Escribe una dirección de correo electrónico válida" data-parse-error="Escribe una dirección de correo electrónico válida" data-range-error="Campo demasiado largo o corto" required="required">
+				<!-- display text area input field -->
+				
+				
+				    
+					   <script type="text/json" data-component="common/HiddenJson">{label:"Correo electr&oacute;nico"}</script><!-- this MUST be immediately after the input/field tag. Hiden data to be attached to the input field (app.hiddenData in app.js -->
+					
+				
+				
+				
+			</div>
+		
+		
+		
+		
+               <span class="errormessage" style="display: none;"></span>
+		
+	    
+		
+		
+		
+		
+		
+		
+		
+
+	
+	
+
+
+
+
+
+
+
+<div class="caption">solo para nuevos suscriptores</div>
+
+</div>
+<div class="formfield js_consents selfsevicesignup">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="birthday_wrapper clearfix checkbox-birthday-wrapper">
+
+
+
+
+<div class="formfield birthday checkbox-birthday clearfix  mandatory">
+
+
+
+ 	
+ 	
+	
+	
+
+		
+			<div class="checkbox">
+			
+
+				
+				 	
+				
+			 	<input class="checkinput required" type="checkbox" checked="checked" name="dwfrm_profile_customer_ageconfirmation" id="dwfrm_profile_customer_ageconfirmation" value="true" maxlength="2147483647" data-missing-error="Eres muy joven para registrarte o para hacer un pedido" data-parse-error="Campo erróneo" data-range-error="Campo demasiado largo o corto" required="required">
+				
+				
+					<label for="dwfrm_profile_customer_ageconfirmation">
+					
+					
+						<span class="requiredindicator">*</span>
+					
+					
+						Sí, soy mayor de 18 años
+					
+					</label>
+				
+				
+					
+
+	<div class="floated-popup" tabindex="0">
+		<a class="showtooltip" data-placement="right" data-width="340" data-title="" data-component="common/Popover"></a>
+		<div class="tooltip-body">
+			<p>adidas solicita la fecha de nacimiento porque lo requiere Aviso de privacidad</p>
+			<button class="cancel button-primary bp-black light-back co-btn_primary btn_tertiary btn-regular-dark btn btn-dark" type="button" title="Cerrar"><span>Cerrar</span></button>
+		</div>
+	</div>
+
+
+	
+				
+                
+                   <span class="errormessage" style="display: none;"></span>
+                
+
+				
+				
+					
+				
+				
+			</div>
+		
+	
+	
+	
+
+
+
+
+
+
+</div>
+
+
+
+
+</div>
+
+</div>
+
+
+<div class="signin-actions-buttons">
+<input type="hidden" name="gender" value="0">
+<a type="submit" id="newsletterheadersubmitmen" name="submitmen" value="Submit" class="button-primary btn-regular-red bp-blue light-back co-btn_primary button-genderinoverlay btn btn-red"><span>Hombre</span></a>
+<span class="gender-str">o</span>
+<a id="newsletterheadersubmitwomen" name="submitwomen" value="Submit" class="button-primary btn-regular-red bp-blue light-back co-btn_primary button-genderinoverlay btn btn-red"><span>Mujer</span></a>
+</div>
+
+</div>
+
+
+
+	<p class="legal-copy-content">Doy mi consentimiento a  <a href="/help-topics-imprint.html" target="_blank">adidas Colombia Ltda</a>  para que utilice mis datos personales con fines comerciales y para sondeos de opinión.  En particular, adidas estará autorizada a analizar mis interacciones con la compania (como por ejemplo mi historial de compras, el uso de aplicaciones, redes sociales y datos personales que comparto con adidas) para así poderme enviar mensajes comerciales personalizados sobre los productos de adidas. adidas podrá ponerse en contacto conmigo mediante correos electrónicos, mensajes de texto, correo ordinario, aplicaciones o cualquier otro medio de comunicación que yo desee utilizar. <a href="#" _dialogtitle="¿Qué quiere decir esto?" data-component="common/Popup" data-closeonescape="true" data-width="460" data-height="auto" data-dialogclass="explanatory-popup" data-target-template="#legalcontentpopup" class="terms">¿Qué quiere decir esto?</a></p>
+	<script type="text/template" id="legalcontentpopup">
+		<div class="signupandsavedialog">Autorizo a <a href="/help-topics-imprint.html" target=_blank>adidas Colombia Ltda</a>, para que me informe por cualquier medio (teléfono, correo electrónico, redes sociales, correo físico) acerca de sus productos, eventos y promociones que pudieran ser de mi interés, así como para preguntarme sobre mi opinión acerca de sus productos y servicios.Del mismo modo, adidas Colombia S.A. podrá elaborar perfiles y analizar mis interacciones con adidas, como por ejemplo, las visitas al sitio web, el comportamiento de compra, el uso de sus aplicaciones y el seguimiento de los enlaces que he consultado.De este modo, entiendo que adidas Colombia podrá conocer mis intereses y por ello la autorizo para enviarme información y promociones que mejor se adapten a mis intereses.Manifiesto que adidas Colombia me ha informado acerca de mis derechos como titular de datos personales y por ello soy consciente que tengo derecho a revocar la presente autorización de uso de datos personales y solicitar la supresión de mis datos conforme a los términos establecidos en la <a href="/help-topics-privacy_policy.html" target=_blank>Política de Privacidad</a> la cual manifiesto conocer.</div>
+	</script>
+
+
+
+</fieldset>
+</form>
+</div>
+<div class="signupandsave_complete">
+<h3 class="signupandsave_complete-title">Registro completado</h3>
+<p class="signupandsave_complete-content">
+Enviaremos un correo de confirmación a
+<span class="emailused"></span>
+</p>
+</div>
+<div class="loading_wrapper">
+<div class="loading">&nbsp;</div>
+</div>
+</div>
+				</div>
+			</div>
+		</div>
+	
+	<div id="header" class="header-redesign header-redesign2 loading-resources ">
+	    <div class="wrapper">
+			<div class="column column-logo">
+			   <a class="logo" href="https://www.adidas.co" alt="Inicio" title="Inicio">adidas</a>
+				
+			</div>
+			<div class="column topcat-nav" data-component="content/ExternalLinks" data-linkscontext="header">
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flyout navigation-gender-men">
+<div class="nav-button">
+<a class="top-cat-link" href="/hombre">
+Hombre
+</a>
+</div>
+
+
+<div class="flyout-content">
+
+
+
+
+
+
+
+
+
+
+
+<div class="contentasset" data-contentasset-id="navigation-gender-men" data-contentasset="navigation-gender-men">
+<div class="flyout-content-in">
+<div class="main-line">
+<div class="col-5">
+<div class="headline"><a href="https://www.adidas.co/hombre?grid=true">Producto Destacado<span style="font-size:10px;"></span></a></div>
+
+<ul>
+	<li><a href="/novedades-hombre">Novedades</a></li>
+	<li><a href="/lanzamientos-fechas">Próximos Lanzamientos</a></li>
+	<li><a href="/mas_vendidos-hombre">Los más vendidos</a></li>
+	<li><a href="/exclusivo_miembros-hombre"><span style="color:#c0392b;">Exclusivo&nbsp;Miembros</span></a></li>
+	<li><a href="/ultimas_unidades-hombre">Últimas unidades</a></li>
+	<li><a href="/sostenible-hombre"><span style="color:#16a085;">Moda sostenible</span></a></li>
+	<li><a href="/exclusivo-hombre">Exclusivos Online</a></li>
+	<li><a href="/adidasapp">adidas app</a></li>
+	<li><a href="/yeezy">Yeezy</a></li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><strong><a href="/colombia-hombre">Selección Colombia</a></strong></li>
+	<li><strong><a href="/colombia-hombre"><img alt="" height="50" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dw2aed2ec4/%2B%2B%2B...jpg" class="lazyload" title="" width="100"></a></strong></li>
+	<li><a href="/millonarios-hombre">Millonarios</a></li>
+	<li><a href="/ciclismo-hombre">Ciclismo</a></li>
+	<li><a href="/4d-hombre?sort=newest-to-oldest">4D</a></li>
+	<li><strong><a href="/hombre-outlet"><span style="color:#c0392b;">Regala Amor ♥</span></a></strong></li>
+	<li>&nbsp;</li>
+	<li>&nbsp;</li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="headline"><a href="/calzado-hombre">Calzado</a></div>
+
+<ul>
+	<li><strong><a href="/outlet-calzado-hombre"><span style="color:#c0392b;">San Valentin Calzado</span></a></strong></li>
+	<li><a href="/calzado-novedades-hombre">Novedades</a></li>
+	<li><a href="/zapatillas_y_tenis-hombre">Tenis</a></li>
+	<li><a href="/superstar-hombre">Superstar</a></li>
+	<li><a href="/zapatillas_y_tenis-originals-hombre">Originals</a></li>
+	<li><a href="/guayos-hombre">Guayos</a></li>
+	<li><a href="/zapatillas_y_tenis-running-hombre">Running</a></li>
+	<li><a href="/calzado-running-principiante-hombre">Running para principiantes</a></li>
+	<li><a href="/zapatillas_y_tenis-training-hombre">Training</a></li>
+	<li><a href="/calzado-unisex">Unisex</a></li>
+	<li><a href="/precios_irresistibles-hombre">Precios Irresistibles</a></li>
+	<li><a href="/calzado-hombre?v_size_es_co=us_11%7Cus_11.5%7Cus_12%7Cus_12.5%7Cus_13%7Cus_13.5%7Cus_14%7Cus_17%7Cus_18%7Cus_15%7Cus_16%7Cus_19%7Cus_14.5">Talla 11 a 19</a></li>
+	<li><a href="/outdoor-calzado-hombre">Terrex</a></li>
+	<li><a href="/zapatillas_y_tenis-skateboarding-hombre">Skate</a></li>
+	<li><a href="/zapatillas_y_tenis-tennis-hombre">Tennis</a></li>
+	<li><a href="/zapatillas_y_tenis-basketball-hombre">Basketball</a></li>
+	<li><a href="/sandalias_y_chancletas-hombre">Chanclas</a></li>
+	<li><a href="/calzado-outlet-hombre">Outlet Tenis</a></li>
+	<li>&nbsp;</li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="headline"><a href="https://www.adidas.co/ropa-hombre">Ropa</a></div>
+
+<ul>
+	<li><strong><a href="/outlet-ropa-hombre"><span style="color:#c0392b;">San Valentin Ropa</span></a></strong></li>
+	<li><a href="/ropa-novedades-hombre">Novedades</a></li>
+	<li><a href="/ropa-buzos_y_sueteres-hombre">Suéters y Buzos</a></li>
+	<li><a href="/ropa-ropa_comoda-hombre">Ropa para estar en casa</a></li>
+	<li><a href="/camisetas-hombre">Camisetas</a></li>
+	<li><a href="/camisetas_de_equipos-futbol-hombre">Camisetas de Fútbol</a></li>
+	<li><a href="/ropa-unisex">Unisex</a></li>
+	<li><a href="/camisetas_polo-hombre">Polos</a></li>
+	<li><a href="/chaquetas-hombre">Chaquetas</a></li>
+	<li><a href="/sudaderas-hombre">Sudaderas</a></li>
+	<li><a href="/pantalones_y_licras-hombre">Pantalones y Licras</a></li>
+	<li><a href="/shorts-hombre">Shorts</a></li>
+	<li><a href="/tiro-hombre">Tiro</a></li>
+	<li><a href="/uniformes_para_equipos-hombre">Uniformes para equipos</a></li>
+	<li><a href="/ropa-alphaskin-hombre">Alphaskin</a></li>
+	<li><a href="pantalonetas_y_vestidos_de_bano-hombre">Vestidos de Baño</a></li>
+	<li><a href="/ropa-essentials-hombre">Esenciales</a></li>
+	<li><a href="/ropa-outlet-hombre">Outlet Ropa</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="headline"><a href="https://www.adidas.co/accesorios-hombre">Accesorios</a></div>
+
+<ul>
+	<li><strong><a href="/outlet-accesorios-hombre"><span style="color:#c0392b;">San Valentin Accesorios</span></a></strong></li>
+	<li><a href="/accesorios-novedades-hombre">Novedades</a></li>
+	<li><a href="/bolsos_y_morrales-hombre">Bolsos y Morrales</a></li>
+	<li><a href="/gorras_y_sombreros-hombre">Gorras</a></li>
+	<li><a href="/balones">Balones</a></li>
+	<li><a href="/medias-hombre">Medias</a></li>
+	<li><a href="/canilleras-hombre">Canilleras</a></li>
+	<li><a href="/guantes-hombre">Guantes</a></li>
+	<li><a href="/botellas_para_agua">Botellas de agua</a></li>
+	<li><a href="/accesorios-outlet-hombre">Outlet Accesorios</a></li>
+	<li><a href="/tapabocas_de_tela">Tapabocas</a></li>
+	<li>&nbsp;</li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="headline"><a href="https://www.adidas.co/hombre?grid=true">Tendencias</a></div>
+
+<ul>
+	<li><a href="/creatorsclub">Creators Club</a></li>
+	<li><a href="/monsters_inc-hombre">Monsters Inc</a></li>
+	<li><strong><a href="/adicolor-hombre">Adicolor</a></strong></li>
+	<li><a href="/superstar-hombre">Superstar</a></li>
+	<li><a href="/primeblue-hombre">Moda sostenible</a></li>
+	<li><a href="/calzado-blanco">Tenis blancos</a></li>
+	<li><a href="/supernova-hombre">Supernova</a></li>
+	<li><a href="/stan_smith-hombre">Stan Smith</a></li>
+	<li><a href="/grand_court-hombre">Grand Court</a></li>
+	<li><a href="/ozweego-hombre">Ozweego</a></li>
+	<li><a href="/calzado-duramo-hombre">Duramo</a></li>
+	<li><a href="/nmd-hombre">NMD</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="headline"><a href="https://www.adidas.co/performance-hombre">Deportes</a></div>
+
+<ul>
+	<li><a href="https://www.adidas.co/futbol-hombre">Fútbol</a></li>
+	<li><a href="https://www.adidas.co/running-hombre">Running</a></li>
+	<li><a href="https://www.adidas.co/training-hombre">Training</a></li>
+	<li><a href="/ciclismo-hombre">Ciclismo</a></li>
+	<li><a href="/terrex-hombre">Outdoor</a></li>
+	<li><a href="/yoga-hombre">Yoga</a></li>
+	<li><a href="/skateboarding-hombre">Skate</a></li>
+	<li><a href="/tennis-hombre">Tennis</a></li>
+	<li><a href="https://www.adidas.co/basketball-hombre">Basketball</a></li>
+	<li><a href="/padel-hombre">Padel</a></li>
+	<li><a href="https://www.adidas.co/natacion-hombre">Natación</a></li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><strong><a href="/principiante-hombre">Para Principiantes</a></strong></li>
+	<li><a href="/running-principiante-hombre">Running</a></li>
+	<li><a href="/training-principiante-hombre">Training</a></li>
+</ul>
+</div>
+</div>
+
+<div class="bottom-line">
+<div class="col-5"><a href="https://www.adidas.co/hombre?grid=true"><strong>Ver todo hombre</strong></a></div>
+
+<div class="col-5"><a href="/calzado-hombre"><strong>Ver todos los tenis</strong></a></div>
+
+<div class="col-5"><a href="https://www.adidas.co/ropa-hombre"><strong>Ver toda la ropa</strong></a></div>
+
+<div class="col-5"><a href="https://www.adidas.co/accesorios-hombre"><strong>Ver todos los accesorios</strong></a></div>
+
+<div class="col-5"><a href="https://www.adidas.co/performance-hombre"><strong>Todos los deportes</strong></a></div>
+</div>
+</div>
+</div><!-- End contentasset -->
+
+
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+<div class="flyout navigation-gender-women">
+<div class="nav-button">
+<a class="top-cat-link" href="/mujer">
+Mujer
+</a>
+</div>
+
+
+<div class="flyout-content">
+
+
+
+
+
+
+
+
+
+
+
+<div class="contentasset" data-contentasset-id="navigation-gender-women" data-contentasset="navigation-gender-women">
+<div class="flyout-content-in">
+<div class="main-line">
+<div class="col-5">
+<div class="headline"><a href="https://www.adidas.co/mujer?grid=true">Producto Destacado</a></div>
+
+<ul>
+	<li><a href="/novedades-mujer">Novedades</a></li>
+	<li><a href="/lanzamientos-fechas">Próximos Lanzamientos</a></li>
+	<li><a href="/mas_vendidos-mujer">Los más vendidos</a></li>
+	<li><a href="/exclusivo_miembros-mujer"><span style="color:#c0392b;">Exclusivo&nbsp;Miembros</span></a></li>
+	<li><a href="/adidasapp">adidas app</a></li>
+	<li><a href="/exclusivo-mujer">Exclusivos Online</a></li>
+	<li><a href="/ultimas_unidades-mujer">Últimas unidades</a></li>
+	<li><a href="/sostenible-mujer"><span style="color:#16a085;">Moda sostenible</span></a></li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><a href="/ciclismo-mujer">Ciclismo</a></li>
+	<li><strong><a href="/colombia-mujer">Selección Colombia</a></strong></li>
+	<li><strong><a href="/colombia-mujer"><img alt="" height="50" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dw2aed2ec4/%2B%2B%2B...jpg" class="lazyload" title="" width="100"></a></strong></li>
+	<li><strong><a href="/bambi">Bambi</a></strong></li>
+	<li><a href="/calzado-zapatillas_y_tenis-blanco-mujer">Tenis Blancos</a></li>
+	<li><a href="/4d-mujer?sort=newest-to-oldest">4D</a></li>
+	<li><strong><a href="/mujer-outlet"><span style="color:#c0392b;">Regala Amor ♥</span></a></strong></li>
+	<li>&nbsp;</li>
+	<li>&nbsp;</li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="headline"><a href="/calzado-mujer">Calzado</a></div>
+
+<ul>
+	<li><strong><a href="/outlet-calzado-mujer"><span style="color:#c0392b;">San Valentin Calzado</span></a></strong></li>
+	<li><a href="/calzado-novedades-mujer">Novedades</a></li>
+	<li><a href="/zapatillas_y_tenis-mujer">Tenis</a></li>
+	<li><a href="/zapatillas_y_tenis-originals-mujer">Originals</a></li>
+	<li><a href="/calzado-originals-classics%7Ccontinental_80%7Cgazelle%7Cstan_smith%7Csuperstar-mujer">adidas clásicos</a></li>
+	<li><a href="/calzado-originals-blanco-mujer">Tenis blancos</a></li>
+	<li><a href="/precios_irresistibles-mujer">Precios Irresistibles</a></li>
+	<li><a href="/calzado-mujer?v_size_es_co=us_8%7Cus_8.5%7Cus_9%7Cus_9.5%7Cus_10%7Cus_10.5%7Cus_11%7Cus_11.5%7Cus_12%7Cus_12.5%7Cus_13%7Cus_13.5">Talla 8 a 13</a></li>
+	<li><a href="/calzado-sandalias_y_chancletas-mujer">Chanclas</a></li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><a href="/calzado-performance">DEPORTIVOS</a></li>
+	<li><a href="/calzado-ultraboost-mujer">Ultraboost</a></li>
+	<li><strong><a href="/zapatillas_y_tenis-running-mujer">Tenis para correr</a></strong></li>
+	<li><a href="/calzado-training-mujer">Tenis para entrenar</a></li>
+	<li><a href="/outdoor-calzado-mujer">Terrex</a></li>
+	<li><a href="/guayos-mujer">Guayos</a></li>
+	<li><a href="/calzado-performance-solar-mujer">Solar</a></li>
+	<li><a href="/calzado-performance-mujer?price_max=219816&amp;price_min=89900">Precio Irresistible</a></li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><a href="/calzado-mujer-outlet">Outlet Tenis</a></li>
+	<li>&nbsp;</li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="headline"><a href="https://www.adidas.co/ropa-mujer">Ropa</a></div>
+
+<ul>
+	<li><strong><a href="/outlet-ropa-mujer"><span style="color:#c0392b;">San Valentin Ropa</span></a></strong></li>
+	<li><a href="/ropa-novedades-mujer">Novedades</a></li>
+	<li><a href="/ropa-buzos_y_sueteres-mujer">Suéters y Buzos</a></li>
+	<li><a href="/ropa-ropa_comoda-mujer">Ropa para estar en casa</a></li>
+	<li><a href="/ropa-mujer?v_size_es_co=2xl%7C3xl%7C4xl%7Cxl%7C34dd%7C36dd%7C38dd">Tallas XL - 4XL</a></li>
+	<li><a href="/ropa-yoga-mujer">Yoga</a></li>
+	<li><a href="/tops_deportivos">Tops Deportivos</a></li>
+	<li><a href="/camisetas-mujer">Camisetas</a></li>
+	<li><a href="/ropa-unisex">Unisex</a></li>
+	<li><a href="/maternidad">Maternidad</a></li>
+	<li><a href="/chaquetas-mujer">Chaquetas</a></li>
+	<li><a href="/sudaderas-mujer">Sudaderas</a></li>
+	<li><a href="/pantalones_y_licras-mujer">Pantalones y&nbsp;Licras</a></li>
+	<li><a href="/shorts-mujer">Shorts</a></li>
+	<li><a href="/ropa-faldas%7Cvestidos-mujer">Faldas y vestidos</a></li>
+	<li><a href="pantalonetas_y_vestidos_de_bano-mujer">Vestidos de Baño</a></li>
+	<li><a href="/ropa-outlet-mujer">Outlet Ropa</a></li>
+	<li>&nbsp;</li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="headline"><a href="https://www.adidas.co/accesorios-mujer">Accesorios</a></div>
+
+<ul>
+	<li><strong><a href="/outlet-accesorios-mujer"><span style="color:#c0392b;">San Valentin Accesorios</span></a></strong></li>
+	<li><a href="/accesorios-novedades-mujer">Novedades</a></li>
+	<li><a href="/bolsos_y_morrales-mujer">Bolsos y Morrales</a></li>
+	<li><a href="/gorras_y_sombreros-mujer">Gorras y Viseras</a></li>
+	<li><a href="/medias-mujer">Medias</a></li>
+	<li><a href="/balones">Balones</a></li>
+	<li><a href="/guantes-mujer">Guantes</a></li>
+	<li><a href="/botellas_para_agua">Botellas de agua</a></li>
+	<li><a href="/accesorios-outlet-mujer">Outlet Accesorios</a></li>
+	<li><a href="/tapabocas_de_tela">Tapabocas</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="headline"><a href="https://www.adidas.co/hombre?grid=true">Tendencias</a></div>
+
+<ul>
+	<li><a href="/creatorsclub">Creators Club</a></li>
+	<li><a href="/superstar-mujer">Superstar</a></li>
+	<li><strong><a href="/adicolor-mujer">Adicolor</a></strong></li>
+	<li><a href="/primeblue-mujer">Moda sostenible</a></li>
+	<li><a href="/calzado-blanco-mujer">Tenis blancos</a></li>
+	<li><a href="/supernova-mujer">Supernova</a></li>
+	<li><a href="/stan_smith-mujer">Stan Smith</a></li>
+	<li><a href="/grand_court-mujer">Grand Court</a></li>
+	<li><a href="/ozweego-mujer">Ozweego</a></li>
+	<li><a href="/calzado-duramo-mujer">Duramo</a></li>
+	<li><a href="/nmd-mujer">NMD</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="headline"><a href="https://www.adidas.co/performance-mujer">Deportes</a></div>
+
+<ul>
+	<li><a href="/running-mujer">Running</a></li>
+	<li><a href="/training-mujer">Training</a></li>
+	<li><a href="/terrex-mujer">Outdoor</a></li>
+	<li><a href="/futbol-mujer">Fútbol</a></li>
+	<li><a href="/ciclismo-mujer">Ciclismo</a></li>
+	<li><a href="/tennis-mujer">Tennis</a></li>
+	<li><a href="/padel-mujer">Padel</a></li>
+	<li><a href="/yoga-mujer">Yoga</a></li>
+	<li><a href="https://www.adidas.co/natacion-mujer">Natación</a></li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><strong><a href="/principiante-mujer">Para Principiantes</a></strong></li>
+	<li><a href="/running-principiante-mujer">Running</a></li>
+	<li><a href="/training-principiante-mujer">Training</a></li>
+	<li><a href="/yoga-principiante-mujer">Yoga</a></li>
+</ul>
+</div>
+</div>
+
+<div class="bottom-line">
+<div class="col-5"><a href="https://www.adidas.co/mujer?grid=true"><strong>Ver todo mujer</strong></a></div>
+
+<div class="col-5"><a href="/calzado-mujer"><strong>Ver todos los tenis</strong></a></div>
+
+<div class="col-5"><a href="https://www.adidas.co/ropa-mujer"><strong>Ver toda la ropa</strong></a></div>
+
+<div class="col-5"><a href="https://www.adidas.co/accesorios-mujer"><strong>Ver todos los accesorios</strong></a></div>
+
+<div class="col-5"><a href="https://www.adidas.co/performance-mujer"><strong>Todos los deportes</strong></a></div>
+</div>
+</div>
+</div><!-- End contentasset -->
+
+
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+<div class="flyout navigation-gender-kids">
+<div class="nav-button">
+<a class="top-cat-link" href="ninos">
+Niños
+</a>
+</div>
+
+
+<div class="flyout-content">
+
+
+
+
+
+
+
+
+
+
+
+<div class="contentasset" data-contentasset-id="navigation-gender-kids" data-contentasset="navigation-gender-kids">
+<div class="flyout-content-in">
+<div class="main-line">
+<div class="col-5">
+<div class="headline"><a href="https://www.adidas.co/ninos?grid=true">Producto destacado<span style="font-size:10px;"></span></a></div>
+
+<ul>
+	<li><a href="/mas_vendidos-ninos">Los más vendidos</a></li>
+	<li><a href="/imprescindibles-ninos">Imprescindibles</a></li>
+	<li><a href="/sostenible-ninos"><span style="color:#16a085;">Moda Sostenible</span></a></li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><a href="/recien_nacidos">Recién nacido</a></li>
+	<li><a href="/millonarios-ninos">Millonarios</a></li>
+	<li><a href="/monsters_inc-ninos">Monsters Inc</a></li>
+	<li><a href="/disney-ninos">DISNEY</a></li>
+	<li><strong><a href="/colombia-ninos">Selección Colombia</a></strong></li>
+	<li><a href="/colombia-ninos"><img alt="" height="50" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dw2aed2ec4/%2B%2B%2B...jpg" class="lazyload" title="" width="100"></a></li>
+	<li><a href="/lego">LEGO</a></li>
+	<li><a href="/calzado-zapatillas_y_tenis-blanco-ninos">Tenis Blancos</a></li>
+	<li><strong><a href="/ninos-outlet"><span style="color:#c0392b;">Regala Amor ♥</span></a></strong></li>
+	<li>&nbsp;</li>
+	<li>&nbsp;</li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="headline"><strong><a href="/8_16_anos-ninos">Teen (8-16 Años)</a></strong></div>
+
+<ul>
+	<li><strong><a href="/outlet-calzado-ninos"><span style="color:#c0392b;">San Valentin Calzado</span></a></strong></li>
+	<li><a href="/8_16_anos-ninos-calzado?sort=newest-to-oldest">TENIS</a></li>
+	<li><a href="/calzado-nina-8_16_anos-ninos?sort=newest-to-oldest">Tenis niña</a></li>
+	<li><a href="/calzado-nino-8_16_anos-ninos?sort=newest-to-oldest">Tenis niño</a></li>
+	<li><a href="/8_16_anos-ninos-originals-calzado?sort=newest-to-oldest">Originals</a></li>
+	<li><a href="/8_16_anos-ninos-performance-calzado?sort=newest-to-oldest">Deporte</a></li>
+	<li><a href="/8_16_anos-ninos-calzado-outlet?sort=newest-to-oldest">Outlet Tenis</a></li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><a href="/ropa-8_16_anos-ninos?v_size_es_co=14_15_anos%7C15_16_anos%7C13_14_anos%7C11_12_anos%7C9_10_anos">ROPA</a></li>
+	<li><a href="/ropa-nino-8_16_anos-ninos?v_size_es_co=14_15_anos%7C15_16_anos%7C13_14_anos%7C11_12_anos%7C9_10_anos">Ropa niño</a></li>
+	<li><a href="/ropa-nina-8_16_anos-ninos?v_size_es_co=14_15_anos%7C15_16_anos%7C13_14_anos%7C11_12_anos%7C9_10_anos">Ropa niña</a></li>
+	<li><a href="/camisetas-8_16_anos-ninos?v_size_es_co=13_14_anos%7C11_12_anos%7C14_15_anos%7C15_16_anos%7C9_10_anos">Camisetas</a></li>
+	<li><a href="/ropa-8_16_anos-ninos-outlet?v_size_es_co=11_12_anos%7C13_14_anos%7C14_15_anos%7C15_16_anos%7C9_10_anos">Outlet Ropa</a></li>
+	<li class="horizontal-separator"><strong>&nbsp;</strong></li>
+	<li><a href="/8_16_anos-ninos-accesorios">ACCESORIOS</a></li>
+	<li><a href="/ninos-accesorios-outlet">Outlet Accesorios</a></li>
+	<li>&nbsp;</li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="headline"><strong><a href="/4_8_anos-ninos">Niños&nbsp;(4-8 Años)</a></strong></div>
+
+<ul>
+	<li><strong><a href="/outlet-ropa-ninos"><span style="color:#c0392b;">San Valentin Ropa</span></a></strong></li>
+	<li><a href="/4_8_anos-ninos-calzado">TENIS</a></li>
+	<li><a href="/calzado-nino-4_8_anos-ninos">Tenis niño</a></li>
+	<li><a href="/calzado-nina-4_8_anos-ninos">Tenis niña</a></li>
+	<li><a href="/4_8_anos-ninos-lifestyle-zapatillas_y_tenis?sort=newest-to-oldest">Originals</a></li>
+	<li><a href="/4_8_anos-ninos-performance-zapatillas_y_tenis?sort=newest-to-oldest">Deporte</a></li>
+	<li><a href="/4_8_anos-ninos-calzado-outlet">Outlet Tenis</a></li>
+	<li class="horizontal-separator"><strong><strong>&nbsp;</strong></strong></li>
+	<li><a href="/ropa-4_8_anos-ninos?v_size_es_co=6_7_anos%7C5_6_anos%7C5_anos%7C7_8_anos%7C4_5_anos%7C4_anos">ROPA</a></li>
+	<li><a href="/ropa-nino-4_8_anos-ninos?v_size_es_co=6_7_anos%7C5_6_anos%7C5_anos%7C7_8_anos%7C4_5_anos%7C4_anos">Ropa niño</a></li>
+	<li><a href="/ropa-nina-4_8_anos-ninos?v_size_es_co=6_7_anos%7C5_6_anos%7C5_anos%7C7_8_anos%7C4_5_anos%7C4_anos">Ropa niña</a></li>
+	<li><a href="/ropa-camisetas-4_8_anos-ninos?v_size_es_co=4_5_anos%7C4_anos%7C5_anos%7C5_6_anos%7C6_7_anos%7C7_8_anos">Camisetas</a></li>
+	<li><a href="/pantalones_y_licras-4_8_anos-ninos?v_size_es_co=5_anos%7C4_anos%7C4_5_anos%7C5_6_anos%7C6_7_anos%7C7_8_anos">Pantalones y Licras</a></li>
+	<li><a href="/ropa-4_8_anos-ninos-outlet?v_size_es_co=5_6_anos%7C4_anos%7C4_5_anos%7C7_8_anos%7C6_7_anos%7C2_3_anos">Outlet Ropa</a></li>
+	<li class="horizontal-separator"><strong><strong>&nbsp;</strong></strong></li>
+	<li><a href="/4_8_anos-ninos-accesorios">ACCESORIOS</a></li>
+	<li><a href="/ninos-accesorios-outlet">Outlet Accesorios</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="headline"><strong><strong><strong><a href="/0_4_anos-ninos">Bebé (0-4 años)</a></strong></strong></strong></div>
+
+<ul>
+	<li><strong><a href="/outlet-accesorios-ninos"><span style="color:#c0392b;">San Valentin Accesorios</span></a></strong></li>
+	<li><a href="/calzado-0_4_anos-ninos">TENIS</a></li>
+	<li><a href="/calzado-nino-0_4_anos-ninos">Tenis niño</a></li>
+	<li><a href="/calzado-nina-0_4_anos-ninos">Tenis niña</a></li>
+	<li><a href="/zapatillas_y_tenis-lifestyle-0_4_anos-ninos">Originals</a></li>
+	<li><a href="/zapatillas_y_tenis-performance-0_4_anos-ninos">Deporte</a></li>
+	<li><a href="/zapatillas_y_tenis-0_4_anos-ninos-outlet">Outlet Tenis</a></li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><a href="/ropa-0_4_anos-ninos?v_size_es_co=9_meses%7C3_meses%7C12_meses%7C18_meses%7C18_24_meses%7C3_anos%7C4_anos%7C3_4_anos%7C6_meses%7C2_anos%7C2_3_anos">ROPA</a></li>
+	<li><a href="/ropa-nino-0_4_anos-ninos?v_size_es_co=9_meses%7C3_meses%7C12_meses%7C18_meses%7C18_24_meses%7C3_anos%7C4_anos%7C3_4_anos%7C6_meses%7C2_anos%7C2_3_anos">Ropa niño</a></li>
+	<li><a href="/ropa-nina-0_4_anos-ninos?v_size_es_co=9_meses%7C3_meses%7C12_meses%7C18_meses%7C18_24_meses%7C3_anos%7C4_anos%7C3_4_anos%7C6_meses%7C2_anos%7C2_3_anos">Ropa niña</a></li>
+	<li><a href="/camisetas-0_4_anos-ninos?v_size_es_co=3_meses%7C12_meses%7C18_meses%7C18_24_meses%7C4_anos%7C3_anos%7C3_4_anos%7C6_meses%7C2_anos%7C2_3_anos">Camisetas</a></li>
+	<li><a href="/conjuntos_para_ninos-0_4_anos">Sudaderas</a></li>
+	<li><a href="/ropa-0_4_anos-ninos-outlet?v_size_es_co=3_meses%7C12_meses%7C18_24_meses%7C18_meses%7C2_anos%7C3_anos%7C3_4_anos%7C4_anos%7C6_meses%7C9_meses%7C2_3_anos">Outlet Ropa</a></li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><a href="/accesorios-0_4_anos-ninos">ACCESORIOS</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="headline"><strong><strong><a href="/ninos?grid=true">Tendencias</a></strong></strong></div>
+
+<ul>
+	<li><a href="/ropa-camisetas-ninos">Camisetas</a></li>
+	<li><strong><a href="/adicolor-ninos">Adicolor</a></strong></li>
+	<li><a href="/calzado-superstar-ninos">Superstar</a></li>
+	<li><a href="/grand_court-ninos">Grand Court</a></li>
+	<li><a href="/calzado-essentials-ninos">Essentials</a></li>
+	<li><a href="/meteorite_pack-ninos">Lo último en guayos</a></li>
+	<li><a href="/colombia-ninos">Selección Colombia</a></li>
+	<li><a href="/verde-ninos">Verde</a></li>
+	<li><a href="/accesorios-bolsos_y_morrales-ninos">Bolsos y morrales</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="headline"><strong><strong><a href="/performance-ninos">Deportes</a></strong></strong></div>
+
+<ul>
+	<li><a href="https://www.adidas.co/futbol-ninos">Fútbol</a></li>
+	<li><a href="https://www.adidas.co/training-ninos">Training</a></li>
+	<li><a href="https://www.adidas.co/running-ninos">Running</a></li>
+	<li><a href="https://www.adidas.co/natacion-ninos">Natación</a></li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><strong><a href="/principiante-ninos">Para Principiantes</a></strong></li>
+	<li><a href="/running-principiante-ninos">Running</a></li>
+	<li><a href="/training-principiante-ninos">Training</a></li>
+</ul>
+</div>
+</div>
+
+<div class="bottom-line">
+<div class="col-5"><a href="/ninos?grid=true"><strong>Ver todo de niños</strong></a></div>
+
+<div class="col-5"><a href="/ninos?prefn1=age&amp;prefv1=8-16%20Años"><strong>Productos de teen</strong></a></div>
+
+<div class="col-5"><a href="/ninos?prefn1=age&amp;prefv1=4-8%20Años"><strong>Productos de niño</strong></a></div>
+
+<div class="col-5"><a href="/bebe-ninos"><strong>Productos de bebé</strong></a></div>
+
+<div class="col-5"><a href="/performance-ninos"><strong>Todos los deportes</strong></a></div>
+</div>
+</div>
+</div><!-- End contentasset -->
+
+
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+<span class="delimiter"></span>
+
+
+
+
+
+<div class="flyout navigation-category-sports">
+<div class="nav-button">
+
+Deporte
+
+</div>
+
+
+<div class="flyout-content">
+
+
+
+
+
+
+
+
+
+
+
+<div class="contentasset" data-contentasset-id="navigation-category-sports" data-contentasset="navigation-category-sports">
+<div class="flyout-content-in">
+<div class="main-line">
+<div class="col-5">
+<div class="headline"><a class="text-logo" href="https://www.adidas.co/futbol">fútbol</a> <a class="image-banner" href="https://www.adidas.co/futbol"> <img alt="" height="80" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dwed7f3a4d/%2B%2B.%2B....jpg" class="lazyload" title="" width="172"> </a></div>
+
+<ul>
+	<li><a href="/guayos">Guayos</a></li>
+	<li><a href="/ropa-futbol">Ropa</a></li>
+	<li><a href="/accesorios-futbol">Accesorios</a></li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><a href="/guayos-estadio">Estadio</a></li>
+	<li><a href="/guayos-futsal">Futsal</a></li>
+	<li><a href="/eurocopa">UEFA Euro</a></li>
+	<li><a href="/millonarios">Millonarios</a></li>
+	<li><a href="/colombia">Selección Colombia</a></li>
+	<li><a href="/real_madrid">Real Madrid</a></li>
+	<li><a href="/juventus">Juventus</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="adidas-brand headline"><a class="text-logo" href="https://www.adidas.co/running">running</a> <a class="image-banner" href="https://www.adidas.co/running"> <img alt="running" height="80" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dw7725dc2b/%2B%2B...jpeg" class="lazyload" title="" width="170"> </a></div>
+
+<ul>
+	<li><a href="/zapatillas_y_tenis-running">Tenis</a></li>
+	<li><a href="/ropa-running">Ropa</a></li>
+	<li><a href="/runfalcon">Runfalcon</a></li>
+	<li><a href="/accesorios-running">Accesorios</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><a href="/runfortheoceans">Run For The Oceans</a></li>
+	<li><a href="/ultraboost">Ultraboost</a></li>
+	<li><a href="/supernova">Supernova</a></li>
+	<li><a href="/adizero-running">adizero</a></li>
+	<li><a href="/adidasrunners">adidas Runners</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="adidas-brand headline"><a class="text-logo" href="https://www.adidas.co/training">gym &amp; training</a> <a class="image-banner" href="https://www.adidas.co/training"> <img alt="training" height="80" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dwd64cc1fc/navigation/Training10.03.jpg" class="lazyload" title="" width="172"> </a></div>
+
+<ul>
+	<li><a href="/zapatillas_y_tenis-training">Tenis</a>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li>
+	<li><a href="/ropa-training">Ropa</a></li>
+	<li><a href="/bolsos_y_morrales-training">Bolsos de Deporte</a></li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><a href="/ropa-tops_deportivos-training">Tops Deportivos</a></li>
+	<li><a href="/ropa-pantalones_y_licras-training">Pantalones y Licras</a></li>
+	<li><a href="/ropa-camisetas-training">Camisetas</a></li>
+	<li><a href="/rdy">Tecnología de enfriamiento</a></li>
+	<li><a href="/ropa-alphaskin">AlphaSkin</a></li>
+	<li><a href="/primeknit-training">Primeknit</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="adidas-brand headline"><a class="text-logo" href="/ciclismo">ciclismo</a> <a href="/ciclismo"><img alt="basketball" height="80" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dw55149d29/%2B%2B1.jpg" class="lazyload" title="" width="172"></a></div>
+
+<ul>
+	<li><a href="/calzado-ciclismo">Calzado Ciclismo</a></li>
+	<li><a href="/ropa-ciclismo-mujer">Ropa mujer</a></li>
+	<li><a href="/ropa-ciclismo-hombre">Ropa hombre</a></li>
+	<li><a href="/accesorios-ciclismo">Accesorios</a></li>
+	<!--li><a href="https://www.adidas.co/nba-basketball-1">Colección NBA </a></li-->
+</ul>
+</div>
+
+<div class="col-5">
+<div class="adidas-brand headline"><a class="text-logo" href="/tennis?grid=true">Tennis</a> <a href="/tennis?grid=true"><img alt="skateboarding" height="80" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dw3d2ad14f/%2B%2B1%2B1.jpg" class="lazyload" title="" width="172"></a></div>
+
+<ul>
+	<li><a href="/calzado-tennis">Calzado</a></li>
+	<li><a href="/ropa-tennis">Ropa</a></li>
+	<li><a href="/club-tennis">Club</a></li>
+	<li><a href="/mygame-tennis">MyGame</a></li>
+	<li><a href="/3_stripes-tennis">3 Stripes</a></li>
+	<!--li><a href="https://www.adidas.co/nba-basketball-1">Colección NBA </a></li-->
+</ul>
+</div>
+
+<div class="col-5 separate">
+<div class="adidas-brand headline"><a href="#">Otros deportes</a></div>
+
+<ul>
+	<li><a href="/outdoor">Outdoor</a></li>
+	<li><a href="/basketball?grid=true">Basketball</a></li>
+	<li><a href="/skateboarding?grid=true">Skateboarding</a></li>
+	<li><a href="/yoga">Yoga</a></li>
+	<li><a href="/natacion?grid=true">Natación</a></li>
+</ul>
+</div>
+</div>
+
+<div class="bottom-line with-line" style="background:none">
+<div class="col-5"><a href="https://www.adidas.co/futbol?grid=true"><strong>Productos de fútbol</strong></a></div>
+
+<div class="col-5"><a href="https://www.adidas.co/running?grid=true"><strong>Productos de running</strong></a></div>
+
+<div class="col-5"><a href="https://www.adidas.co/training?grid=true"><strong>Productos de training</strong></a></div>
+
+<div class="col-5 separate"><a href="/ciclismo"><strong>Productos de ciclismo</strong></a></div>
+
+<div class="col-5 separate"><a href="/tennis?grid=true"><strong>Productos de tennis</strong></a></div>
+</div>
+</div>
+</div><!-- End contentasset -->
+
+
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+<div class="flyout navigation-category-labels">
+<div class="nav-button">
+
+Marcas
+
+</div>
+
+
+<div class="flyout-content">
+
+
+
+
+
+
+
+
+
+
+
+<div class="contentasset" data-contentasset-id="navigation-category-labels" data-contentasset="navigation-category-labels">
+<div class="flyout-content-in">
+<div class="main-line">
+<div class="col-5">
+<div class="adidas-brand headline"><a class="image-logo" href="https://www.adidas.co/originals"><span style="display:none">originals</span><img alt="originals" height="26" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/default/dw2a37cb0a/header-redesign/original.png" class="lazyload" width="172"> </a> <a class="image-banner" href="https://www.adidas.co/originals"> <img alt="" height="80" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dw09205a32/%2B%2B%2B11%2B.jpg" class="lazyload" title="" width="172"> </a></div>
+
+<ul>
+	<li><a href="/zapatillas_y_tenis-originals">Tenis</a></li>
+	<li><a href="/ropa-originals">Ropa</a></li>
+	<li><a href="/accesorios-originals">Accesorios</a></li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><a href="/zx">ZX</a></li>
+	<li><a href="/nite_jogger">Nite Jogger</a>&nbsp;</li>
+	<li><a href="/nmd?grid=true">NMD</a></li>
+	<li><a href="/stan_smith">Stan Smith</a></li>
+	<li><a href="/superstar">Superstar</a></li>
+	<li><a href="/originals-adicolor">adicolor</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="adidas-brand headline"><a class="image-logo" href="/athletic?grid=true"><span style="display:none">athletics</span><img alt="" height="26" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dwf16d20a3/%2B%2B%2B%2B%2Ba.png" class="lazyload" title="" width="172"> </a> <a href="/athletic?grid=true"><img alt="athletics" height="78" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dwc69224ad/%2B-%2B00.jpg" class="lazyload" title="" width="170"></a></div>
+
+<ul>
+	<li><a href="/athletic-ropa-hombre">Ropa para hombre</a></li>
+	<li><a href="/athletic-ropa-mujer">Ropa para mujer</a></li>
+	<li><a href="/athletic-novedades">Novedades</a></li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><a href="/athletic-essentials">Essentials</a></li>
+	<li><a href="/zne">ZNE</a></li>
+	<li><a href="/athletic-3_stripes">3 Stripes</a></li>
+	<li><a href="/athletic-clima">Clima</a></li>
+	<li><a href="/athletic-rdy">RDY</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="adidas-brand headline"><a class="image-logo" href="/terrex"><span style="display:none">athletics</span><img alt="" height="26" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dwc8180f8c/navigation/00-TERREX_logo_172x30.png" class="lazyload" title="" width="172"> </a> <a class="image-banner" href="/terrex"> <img alt="athletics" height="78" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dw283f11f8/%2Ba.jpeg" class="lazyload" title="" width="170"> </a></div>
+
+<ul>
+	<li><a href="/hombre-terrex-zapatillas_y_tenis">Tenis para Hombre</a></li>
+	<li><a href="/mujer-terrex-calzado">Tenis para Mujer</a></li>
+	<li><a href="/ninos-terrex-calzado">Tenis para Niños</a></li>
+	<li><a href="/terrex-ropa">Ropa</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="adidas-brand headline"><a class="image-logo" href="/adidas_by_stella_mccartney?grid=true"><span style="display:none">Stella Mccartney</span><img alt="" height="26" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dw250136fe/0-0000000.png" class="lazyload" title="" width="172"> </a> <a class="image-banner" href="/adidas_by_stella_mccartney?grid=true"> <img alt="stella" height="78" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dwb1fb22ab/%2B%2Ba.jpeg" class="lazyload" title="" width="170"> </a></div>
+
+<ul>
+	<li><a href="/ropa-adidas_by_stella_mccartney">Ropa</a></li>
+	<li class="horizontal-separator">&nbsp;</li>
+	<li><a href="/adidas_by_stella_mccartney-training">Training</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="adidas-brand headline"><a class="image-logo" href="/sostenible"><span style="display:none">neo</span><img alt="" height="26" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dw7ec7bdf5/%2B000%2B0.jpg" class="lazyload" title="" width="172"></a><a class="image-banner" href="/sostenible"> </a> <a href="/sustentabilidad"><img alt="" height="78" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dwfe2b2062/%2B00%2B00%2B00.jpg" class="lazyload" title="" width="170"></a></div>
+
+<ul>
+	<li><a href="/runfortheoceans">Run For&nbsp;The Oceans</a></li>
+	<li><a href="/sustentabilidad">Sustentabilidad</a></li>
+	<li><a href="/vegano">Vegano</a></li>
+	<li><a href="/sostenible">Colección Sostenible</a></li>
+	<li><a href="/primegreen">Tecnología&nbsp;Primegreen</a></li>
+	<li><a href="/primeblue">Tecnología PrimeBlue</a></li>
+	<li><a href="/parley">adidas x Parley</a></li>
+</ul>
+</div>
+</div>
+
+<div class="bottom-line with-line" style="background:none">
+<div class="col-5"><a href="https://www.adidas.co/originals?grid=true"><strong>Productos Originals</strong></a></div>
+
+<div class="col-5"><strong><a href="/athletic?grid=true">Productos Sportswear</a></strong></div>
+
+<div class="col-5"><strong><a href="/terrex">Productos adidas Terrex</a></strong></div>
+
+<div class="col-5"><strong><a href="/adidas_by_stella_mccartney?grid=true">Productos Stella Mccartney</a></strong></div>
+
+<div class="col-5"><a href="/sostenible"><strong>Productos Reciclados</strong></a></div>
+</div>
+</div>
+</div><!-- End contentasset -->
+
+
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+<span class="delimiter"></span>
+
+
+
+
+
+<div class="flyout navigation-services-customise">
+<div class="nav-button">
+<a class="top-cat-link" href="/outlet">
+Colecciones
+</a>
+</div>
+
+
+<div class="flyout-content">
+
+
+
+
+
+
+
+
+
+
+
+<div class="contentasset" data-contentasset-id="navigation-services-customise" data-contentasset="navigation-services-customise">
+<div class="flyout-content-in">
+<div data-custom-label="Colecciones" style="visibility: hidden">&nbsp;</div>
+
+<div class="main-line">
+<div class="col-5">
+<div class="adidas-brand headline"><a href="/hombre?grid=true">TENDENCIAS</a><a href="/hombre?grid=true"><img alt="" height="78" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dw7b5e93df/0-00106aaa.jpg" class="lazyload" title="" width="170"></a></div>
+
+<ul>
+	<li><a href="/calzado">Todos los tenis</a></li>
+	<li><a href="/calzado-skateboarding">Tenis de skateboarding</a></li>
+	<li><a href="/calzado-zapatillas_y_tenis-blanco">Tenis Blancos</a></li>
+	<li><a href="/calzado-zapatillas_y_tenis-negro">Tenis negros</a></li>
+	<li><a href="/calzado-sleek">Tenis Sleek</a></li>
+	<li><a href="/zapatillas_y_tenis-torsion">Tenis torsion system</a></li>
+	<li><a href="/better_cotton_initiative">Better Cotton Initiative</a></li>
+	<li><a href="/algodon_organico">Algodón Orgánico</a></li>
+	<li><a href="/sudaderas">Sudaderas</a></li>
+	<li><a href="/accesorios-bolsos_y_morrales-canguros-hombre">Canguros</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="adidas-brand headline"><span style="display:none">athletics</span><a href="/originals?grid=true">ORIGINALS</a><a href="/originals?grid=true"><img alt="" height="78" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dwd03c0239/%2Baaa.png" class="lazyload" title="" width="170"></a></div>
+
+<ul>
+	<li><a href="/stan_smith">Stan Smith</a></li>
+	<li><a href="/superstar">Superstar</a></li>
+	<li><a href="/forum">Forum</a></li>
+	<li><a href="/originals-trefoil">Trefoil</a></li>
+	<li><a href="/originals-classics">Classics</a></li>
+	<li><a href="/originals-adicolor">Adicolor</a></li>
+	<li><a href="/originals-zx">ZX</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="adidas-brand headline"><span style="display:none">neo</span><a href="/running?grid=true">RUNNING</a><a href="/running?grid=true"><img alt="" height="78" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dwf9f26fc5/00-0101aa.jpg" class="lazyload" title="" width="170"></a></div>
+
+<ul>
+	<li><a href="/zapatillas_y_tenis-running">Tenis para correr</a></li>
+	<li><a href="/ultraboost">Ultraboost</a></li>
+	<li><a href="/supernova">Supernova</a></li>
+	<li><a href="/solar">Solar</a></li>
+	<li><a href="/zapatillas_y_tenis-running-largas_distancias">Tenis para correr distancias largas</a></li>
+	<li><a href="/pantalones_y_licras-running">Pantalones y licras para correr</a></li>
+	<li><a href="/shorts-running">Shorts para correr</a></li>
+	<li><a href="/chaquetas-running">Chaquetas para correr</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="adidas-brand headline"><span style="display:none">athletics</span><a href="/futbol?grid=true">Fútbol</a><a href="/futbol?grid=true"><img alt="" height="78" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dwa851cda5/0-00106aasports.jpg" class="lazyload" title="" width="170"></a></div>
+
+<ul>
+	<li><a href="/calzado-futbol-futsal">Guayos para fútbol sala</a></li>
+	<li><a href="/calzado-futbol-calle">Tenis para fútbol calle</a></li>
+	<li><a href="/calzado-pasto_artificial-futbol">Guayos para pasto artificial</a></li>
+	<li><a href="/camisetas-futbol">Camisetas de fútbol</a></li>
+	<li><a href="/pantalones_y_licras-futbol">Pantalones y licras de fútbol</a></li>
+	<li><a href="/shorts-futbol">Shorts de fútbol</a></li>
+	<li><a href="/juventus">Uniformes Juventus</a></li>
+	<li><a href="/real_madrid">Uniformes del Real Madrid</a></li>
+	<li><a href="/manchester_united">Uniformes Manchester United</a></li>
+	<li><a href="/guantes-futbol">Guantes de arquero</a></li>
+</ul>
+</div>
+
+<div class="col-5">
+<div class="adidas-brand headline"><span style="display:none">athletics</span><a href="/ropa">ROPA</a><a href="/ropa"><img alt="" height="78" data-original="https://www.adidas.co/on/demandware.static/-/Sites-adidas-CO-Library/es_CO/dw8376806f/0-00104a.jpg" class="lazyload" title="" width="170"></a></div>
+
+<ul>
+	<li><a href="/camisetas-camisetas_estampadas">Camisetas estampadas</a></li>
+	<li><a href="/chaquetas_ligeras">Chaquetas ligeras</a></li>
+	<li><a href="/chaquetas_acolchadas">Chaquetas acolchadas</a></li>
+	<li><a href="/pantalones_de_sudadera">Pantalones de sudadera</a></li>
+	<li><a href="/chaquetas_rompevientos">Chaquetas rompevientos</a></li>
+	<li><a href="/camisetas-basketball">Camisetas de basketball</a></li>
+	<li><a href="/tops_deportivos">Tops deportivos</a></li>
+</ul>
+</div>
+</div>
+
+<div class="bottom-line with-line" style="background:none">&nbsp;</div>
+</div>
+</div><!-- End contentasset -->
+
+
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+				
+			</div>
+			<div class="column utility">
+				
+					<div id="minicart" class="minicart flyout" data-component="checkout/MiniCart">
+						
+							
+
+
+<div class="minicart-button" data-ci-test-id="minicartButton">
+	<a class="minicarttotal" href="https://www.adidas.co/cart/" title="Ir a la caja">
+			
+			<svg class="gl-icon" data-di-res-id="d22450f-7c1f6015" data-di-rand="1568895943480">
+			<use xlink:href="#bag-inactive">
+		
+				<svg id="bag-inactive" viewBox="0 0 16 24"><g fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="1.7"><path d="M1 7h14v14H1z"></path><path d="M11 10V3H5v7"></path></g></svg>
+			</use>
+
+			</svg>
+		
+		<span class="cart_count"><strong></strong></span>
+		
+	</a>
+</div>
+						
+						<script id="emptyCartFlyout" type="text/template">
+            				<div class="flyout-content empty-cart-msg">Tu carrito est&aacute; vac&iacute;o</div>
+            			</script>
+					</div>
+				
+				
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
+<div data-current-search="CustomizeSearch" data-component="common/header/SearchRedesign,content/ExternalLinks,search/SearchField" data-suggestions="true" data-categories="false" data-products="true" data-min-chars="3" data-terms="true" data-terms-limit="8.0" data-suggest-url="/on/demandware.store/Sites-adidas-CO-Site/es_CO/SearchAuxiliar-GetSuggestions" data-is-reebok="false" data-cookie-search-name="searchType" data-linkscontext="search" class="sitesearch" id="site-search-redesigned">
+
+<div class="search-content-area header-fullwidth search-block">
+<div class="searchinput-redesign">
+<a class="close">cerrar <span class="icon-svg44"></span></a>
+
+<form action="https://www.adidas.co/search" method="get" id="simpleSearchFormRedesign" class="icon-svg38 simplesearch">
+<label for="searchInputRedesign" class="label-off">buscar</label>
+<input name="q" id="searchInputRedesign" class="searchinput-field-redesign" autocomplete="off" placeholder="buscar">
+</form>
+</div>
+
+<div class="search-suggest clearfix " style="display:none;"><!-- Placeholder for suggestions --></div>
+    
+    <script type="text/template" id="simpleSearchSuggestRedesign">
+	<? if ( (typeof suggestions != 'undefined' && suggestions.length) || (typeof categories != 'undefined' && categories.length) || (typeof products != 'undefined' && products.length) || (typeof terms != 'undefined' && terms.length) ) {?>
+		<? if( (typeof terms != 'undefined' && terms.length) ){
+				var termsClass = "terms";
+			}
+			else{
+				var termsClass = "";
+			} 
+		?>
+        <div class="column-holder clearfix <?=termsClass?>">
+		<? var columnPos = 0;?>
+        <? if ( (typeof suggestions != 'undefined' && suggestions.length) || (typeof categories != 'undefined' && categories.length) || (typeof terms != 'undefined' && terms.length) ) {?>
+        <div class="column suggestions" data-column-num="<?=columnPos++?>">
+			<? if(typeof terms != 'undefined' && terms.length){ ?>
+            	<div class="headline terms">TUS B&Uacute;SQUEDAS M&Aacute;S RECIENTES</div>
+			<? }else{ ?>
+				<div class="headline">Sugerencias</div>
+			<? } ?>
+            <ul class="suggestions-list">
+				<? var i = 0;?>
+				<? if (typeof suggestions != 'undefined' && suggestions.length) {?>
+            		<? for(; i < suggestions.length; i++ ) {
+            	   		var item = suggestions[i];
+            		?>
+            	    	<li class="suggestion" data-row-num="<?=i?>">
+                	    	<a href="<?=appendParamToURL('https://www.adidas.co/search', 'q', item.suggestion)?>"><?=item.suggestion?></a>
+                		</li>
+            		<? } ?>
+				<? } ?>
+				<? var j = 0;?>
+				<? if (typeof categories != 'undefined' && categories.length) {?>
+            		<? for(; j < categories.length; j++) {
+            	   		var item = categories[j];
+            		?>
+            	    	<li class="category" data-row-num="<?=i+j?>">
+            	        	<a href="<?='//'+item.url?>"><?=item.suggestion?></a>
+            	    	</li>
+            		<? } ?>
+				<? } ?>
+				<? var k = 0; ?>
+				<? if (typeof terms != 'undefined' && terms.length) {?>
+            		<? for(; k < terms.length; k++ ) {
+            	   		var item = terms[k];
+            		?>
+            	    	<li class="suggestion terms" data-row-num="<?=k?>">
+                	    	<a href="<?=appendParamToURL('https://www.adidas.co/search', 'q', item)?>"><?=item?></a>
+                		</li>
+            		<? } ?>
+				<? } ?>
+            </ul>
+        </div>
+        <? } ?>
+        <? if (typeof products != 'undefined' && products.length) {?>
+        <div class="column products" data-column-num="<?=columnPos++?>">
+            <div class="headline">Productos</div>
+            <ul>
+            <?
+				var numberOfStars = 5; 
+				for(var i = 0, r = 0; i < products.length; i++, r++) { 
+            		var item = products[i];
+            ?>
+				<? if (i === 4.0) {
+					r = 0;
+				 ?>
+            </ul>
+        </div>
+        <div class="column products" data-column-num="<?=columnPos++?>">
+            <div class="headline">&nbsp;</div>
+            <ul>
+				<? } ?>
+                <li class="product" data-row-num="<?=r?>">
+                    <a class="product-in" href="<?=item.url?>">
+						<img class="column-product-image" src="<?=item.image?>"/>
+						<span class="column-product-data">
+							<span class="column-product-suggestion">
+								<?=item.suggestion?>
+							</span>
+							<span class="column-product-subtitle">
+								<?=item.subTitle?>
+							</span>
+							
+								<span class="column-product-price">
+									<?  var separatedSalePrice = JSON.parse(item.separatedSalePrice);
+										var separatedStandartPrice = JSON.parse(item.separatedStandartPrice);
+									?>
+									<span <? if (separatedStandartPrice) { ?> class="column-product-price-new"<? } ?>>
+										<?
+											for(var j = 0; j < separatedSalePrice.length; j++) {
+												var salePriceItem = separatedSalePrice[j];
+										?>
+											<span class="<?=(salePriceItem.isCurrency) ? 'currency-sign' : 'sale-price'?>">
+												<?=salePriceItem.value?>
+											</span>
+										<? } ?>
+									</span>
+									<? if (separatedStandartPrice) { ?>
+										<span class="column-product-price-old">
+										<?
+											for(var k = 0; k < separatedStandartPrice.length; k++) {
+												var standartPriceItem = separatedStandartPrice[k];
+										?>
+											<span class="<?=(standartPriceItem.isCurrency) ? 'currency-sign' : 'sale-price'?>">
+												<?=standartPriceItem.value?>
+											</span>
+										<? } ?>
+										</span>
+									<? } ?>
+								</span>
+							
+							
+								<?
+									var avgRating = Math.round(item.rating);
+									var percentage = Math.round(avgRating / numberOfStars * 100);
+								?>
+								<!-- rating -->
+								<? if(percentage) { ?>
+									<div class="rating-stars-container">
+										<ul class="rating-stars rating-stars-empty"><? for( var star = 0; star < numberOfStars; star ++ ) { ?><li></li><? } ?></ul>
+										<ul class="rating-stars rating-stars-filled" style="width:<?=percentage?>%;"><? for( var star = 0; star <  numberOfStars; star ++ ) { ?><li></li><? } ?></ul>
+									</div>
+								<? } ?>
+								<!-- /rating -->
+								<span class="rating-stars-count"><?=item.reviews?></span>
+							
+						</span>
+					</a>
+                </li>
+            <? } ?>
+            </ul>
+        </div>
+		<? } ?>
+		</div>
+	<? } ?>
+ </script>
+
+
+<script type="text/template" id="termsSuggest">
+	<div class="column-holder clearfix terms">
+		<div class="column suggestions">
+			<div class="headline terms">TUS B&Uacute;SQUEDAS M&Aacute;S RECIENTES</div>
+			<ul class="suggestions-list">
+            	<? for(var k=0; k < terms.length; k++ ) {
+           			var item = terms[k];
+           		?>
+            	<li class="suggestion terms" data-row-num="<?=k?>">
+                	<a href="<?=appendParamToURL('https://www.adidas.co/search', 'q', item)?>"><?=item?></a>
+            	</li>
+            	<? } ?>
+        	</ul>
+		</div>
+	</div>
+</script>
+
+</div>
+
+</div>
+				
+			</div>
+		</div>
+	</div>
+	
+</div>
+
+
+
+<div id="consent_blackbar"></div>
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	<div class="signupAndSaveContainer" style="display:none">
+		<div id="signAndSaveDialog" data-component="common/SignUpAndSaveOverlay" data-showoverlayonxpage="1" data-ignorecountforhttps="true" data-ignorecountforurls="help-topics,M19064,M19068,M19077,S10650,S10651,S11795,S11796,S11797,S11798,S11800,M25498,M25499,M18628,M18629,M18630,B40400,B26094,B26095,S15223,S15227,B26090,B26085,S87045,S20266,S15230,S15220,S15224,B26083,S15232,S15231,S15233,S15234,S15236,S15226,S15225,B26092,S15221,S15222,S15228,S15229,B26088,S20263,S20264,S15252,S15253,S15257,S20265,S15246,S15247,S15255,S24871,S15256,S15243,S15237,S15238,S15254,B26098,B26101,B35756,B35757,S07436,S07426,S07425,S07432,S07434,AA6387,S07430,S07428,S07422,S07423,S07416,AA1336,AA1337,S07419,S07417,S07437,S07424,AA6103,AA6104,AA6105,B25385,B25387,B25386,AB1616,AB1615,AB1614,Z97400,Z97399,Z97401,B25388,B25389,B25390,AB1456,AB1455,B25383,B25384,B25406,B25405,AB1619,AB1618,AB1617,B25397,B25398,B25399,Z97396,Z97397,Z97398,B25400,B25401,B25402,M35024,M35025,M35022,M35023,Page-Brand, Page-BrandsPromoInclude" data-ignorecountforurlparams="cm_mmc=AdieEmail_MKTG">
+				<div class="signupform">
+					<div class="newsletter_signup_layer_one">
+						
+					</div>
+					<div class="newsletter_signup_layer_two" style="display:block">
+					<h3 class="signup-and-save-header" data-text="ÚNETE AL UNIVERSO ADIDAS, CONOCE LAS NOVEDADES Y OBTÉN <span style='color: #92d39f;'>15% DE DESCUENTO</span>">
+						ÚNETE AL UNIVERSO ADIDAS, CONOCE LAS NOVEDADES Y OBTÉN <span style="color: #92d39f;">15% DE DESCUENTO</span>
+					</h3>
+					<div class="newsletter_signup_form">
+						<form id="signupandsaveform" action="https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/Newsletter-Submits" method="post" data-component="form/Form" class="fancyform email_signup" novalidate="novalidate">
+							<fieldset>
+								<div class="general_error"></div>
+								<div class=" formfield email ">
+									<input type="text" class="textinput required focusout" id="dwfrm_profile_customer_email" name="email" placeholder="Tu e-mail" value="">
+									<div class="errormsg" data-empty-error="Escribe una dirección de correo electrónico válida"></div>
+									<input type="hidden" name="storetypetemplate" value="">
+									<input type="hidden" name="signup_source" value="overlay">
+								</div>
+							</fieldset>
+							<fieldset>
+								<div class="js_consents signupandsave">
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="birthday_wrapper clearfix checkbox-birthday-wrapper">
+
+
+
+
+<div class="formfield birthday checkbox-birthday clearfix  mandatory">
+
+
+
+ 	
+ 	
+	
+	
+
+		
+			<div class="checkbox">
+			
+
+				
+				 	
+				
+			 	<input class="checkinput required" type="checkbox" checked="checked" name="dwfrm_profile_customer_ageconfirmation" id="dwfrm_profile_customer_ageconfirmation" value="true" maxlength="2147483647" data-missing-error="Eres muy joven para registrarte o para hacer un pedido" data-parse-error="Campo erróneo" data-range-error="Campo demasiado largo o corto" required="required">
+				
+				
+					<label for="dwfrm_profile_customer_ageconfirmation">
+					
+					
+						<span class="requiredindicator">*</span>
+					
+					
+						Sí, soy mayor de 18 años
+					
+					</label>
+				
+				
+					
+
+	<div class="floated-popup" tabindex="0">
+		<a class="showtooltip" data-placement="right" data-width="340" data-title="" data-component="common/Popover"></a>
+		<div class="tooltip-body">
+			<p>adidas solicita la fecha de nacimiento porque lo requiere Aviso de privacidad</p>
+			<button class="cancel button-primary bp-black light-back co-btn_primary btn_tertiary btn-regular-dark btn btn-dark" type="button" title="Cerrar"><span>Cerrar</span></button>
+		</div>
+	</div>
+
+
+	
+				
+                
+                   <span class="errormessage" style="display: none;"></span>
+                
+
+				
+				
+					
+				
+				
+			</div>
+		
+	
+	
+	
+
+
+
+
+
+
+</div>
+
+
+
+
+</div>
+
+								</div>
+										
+								<div class="formactions">
+								
+															
+								 	
+									<input type="hidden" name="gender" value="0">
+									
+									<button class="button-primary bp-blue light-back co-btn_primary btn-regular-red btn btn-red" type="submit" id="newslettersubmitbuttonwomen" name="dwfrm_profile_subscribe" value="Submit"><span>Mujer</span></button>
+									<button class="button-primary bp-blue light-back co-btn_primary btn-regular-red btn btn-red" type="submit" id="newslettersubmitbuttonmen" name="dwfrm_profile_subscribe" value="Submit"><span>Hombre</span></button>
+										
+									<div class="subscribefull">
+										
+
+	<p class="legal-copy-content">Doy mi consentimiento a  <a href="/help-topics-imprint.html" target="_blank">adidas Colombia Ltda</a>  para que utilice mis datos personales con fines comerciales y para sondeos de opinión.  En particular, adidas estará autorizada a analizar mis interacciones con la compania (como por ejemplo mi historial de compras, el uso de aplicaciones, redes sociales y datos personales que comparto con adidas) para así poderme enviar mensajes comerciales personalizados sobre los productos de adidas. adidas podrá ponerse en contacto conmigo mediante correos electrónicos, mensajes de texto, correo ordinario, aplicaciones o cualquier otro medio de comunicación que yo desee utilizar. <a href="#" _dialogtitle="¿Qué quiere decir esto?" data-component="common/Popup" data-closeonescape="true" data-width="460" data-height="auto" data-dialogclass="explanatory-popup" data-target-template="#legalcontentpopup" class="terms">¿Qué quiere decir esto?</a></p>
+	<script type="text/template" id="legalcontentpopup">
+		<div class="signupandsavedialog">Autorizo a <a href="/help-topics-imprint.html" target=_blank>adidas Colombia Ltda</a>, para que me informe por cualquier medio (teléfono, correo electrónico, redes sociales, correo físico) acerca de sus productos, eventos y promociones que pudieran ser de mi interés, así como para preguntarme sobre mi opinión acerca de sus productos y servicios.Del mismo modo, adidas Colombia S.A. podrá elaborar perfiles y analizar mis interacciones con adidas, como por ejemplo, las visitas al sitio web, el comportamiento de compra, el uso de sus aplicaciones y el seguimiento de los enlaces que he consultado.De este modo, entiendo que adidas Colombia podrá conocer mis intereses y por ello la autorizo para enviarme información y promociones que mejor se adapten a mis intereses.Manifiesto que adidas Colombia me ha informado acerca de mis derechos como titular de datos personales y por ello soy consciente que tengo derecho a revocar la presente autorización de uso de datos personales y solicitar la supresión de mis datos conforme a los términos establecidos en la <a href="/help-topics-privacy_policy.html" target=_blank>Política de Privacidad</a> la cual manifiesto conocer.</div>
+	</script>
+
+
+									</div>
+								</div>
+							</fieldset>
+						</form>
+					</div>
+					<div class="signupandsave_complete">
+						<h3>Registro completado</h3>
+						<p></p>
+					</div>
+					<div class="loading_wrapper">
+						<div class="loading">&nbsp;</div>
+					</div>
+				</div>
+			</div>
+			<div class="interstitial"></div>
+		</div>
+	</div>
+
+
+
+<div id="main" class="static">
+<div id="content" data-component="help/Search">
+<div class="wrapper">
+
+<div class="helparticle">
+
+<div class="help-breadcrumbs breadcrumbs">
+<div class="back">
+<a href="https://www.adidas.co/ayuda?hcid=MAPA_DEL_SITIO" id="product-back" title="Atrás"><!--[if IE 7]><span class="breadcrumb-icon"></span><![endif]-->Atrás</a>
+</div>
+
+
+
+
+<div class="breadcrumb">
+
+
+
+
+<span class="divider">/</span><a href="https://www.adidas.co/ayuda?hcid=MAPA_DEL_SITIO" title="MAPA DEL SITIO">MAPA DEL SITIO</a>
+
+
+
+
+
+</div><!-- END: breadcrumb -->
+</div>
+<div class="help-container">
+<div class="help-shadow clearfix">
+<h1 class="help-title">Mapa del sitio</h1>
+<div class="helparticle-date">
+<span>Última actualización:</span> 18/06/2020
+</div>
+</div>
+<div class="text-container clearfix">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="contentasset" data-contentasset-id="mapa-del-sitio" data-contentasset="mapa-del-sitio">
+<h1>Mapa del Sitio</h1>
+
+<h2><a href="http://www.adidas.co/">Tienda adidas</a></h2>
+
+<p>&nbsp;</p>
+
+<h3>Hombre</h3>
+
+<p>&nbsp;</p>
+
+<p><a href="https://www.adidas.co/hombre">adidas para Hombre</a></p>
+
+<p><a href="https://www.adidas.co/zapatos-hombre">Tenis Hombre</a></p>
+
+<p><a href="https://www.adidas.co/ropa-hombre">Ropa Hombre</a></p>
+
+<p><a href="https://www.adidas.co/accesorios-hombre">Accesorios Hombre</a></p>
+
+<h3>Mujer</h3>
+
+<p><a href="https://www.adidas.co/mujer">adidas para Mujer</a></p>
+
+<p><a href="https://www.adidas.co/zapatos-mujer">Tenis Mujer</a></p>
+
+<p><a href="https://www.adidas.co/ropa-mujer">Ropa Mujer</a></p>
+
+<p><a href="https://www.adidas.co/accesorios-mujer">Accesorios Mujer</a></p>
+
+<h3>Niños</h3>
+
+<p><a href="https://www.adidas.co/ninos">adidas para Niños</a></p>
+
+<p><a href="https://www.adidas.co/zapatos-ninos">Tenis Niños</a></p>
+
+<p><a href="https://www.adidas.co/ropa-ninos">Ropa Niños</a></p>
+
+<p><a href="https://www.adidas.co/accesorios-ninos">Accesorios Niños</a></p>
+
+<p>&nbsp;</p>
+
+<p><a href="/blackfriday">Black Friday</a></p>
+
+<p><a href="/cyberlunes">Cyber Lunes</a></p>
+
+<p><a href="/cyber-days">Cyber Days</a></p>
+
+<h2>Performance</h2>
+
+<h3>Fútbol</h3>
+
+<p><a href="https://www.adidas.co/futbol">adidas Fútbol</a></p>
+
+<p><a href="/guayos">Guayos de Fútbol</a></p>
+
+<p><a href="https://www.adidas.co/ropa-futbol">Ropa de Fútbol</a></p>
+
+<p><a href="https://www.adidas.co/accesorios-futbol">Accesorios de Fútbol</a></p>
+
+<p><a href="/balones-futbol">Balon de Futbol</a></p>
+
+<p><a href="/camisetas_de_equipos-futbol">Camisetas de Futbol</a></p>
+
+<p><a href="/colombia">Selección Colombia FCF</a></p>
+
+<p><a href="/millonarios">Millonarios</a></p>
+<!-- add Static Pages -->
+
+<h3>Basketball</h3>
+
+<p><a href="/performance-basketball">adidas Basketball</a></p>
+
+<p><a href="/zapatillas_y_tenis-basketball">Tenis Basketball</a></p>
+
+<p><a href="https://www.adidas.co/basketball-ropa">Ropa Basketball</a></p>
+
+<p><a href="https://www.adidas.co/basketball-accesorios">Accesorios Basketball</a></p>
+
+<h3>Tennis</h3>
+
+<p><a href="https://www.adidas.co/tennis">adidas Tennis</a></p>
+
+<p><a href="/zapatillas_y_tenis-tennis">Calzado Tennis</a></p>
+
+<p><a href="https://www.adidas.co/ropa-tennis">Ropa Tennis</a></p>
+
+<p><a href="https://www.adidas.co/accesorios-tennis">Accesorios Tennis</a></p>
+
+<h3>Running</h3>
+
+<p><a href="https://www.adidas.co/running">adidas Running</a></p>
+
+<p><a href="/zapatillas_y_tenis-running">Tenis Running</a></p>
+
+<p><a href="https://www.adidas.co/ropa-running">Ropa Running</a></p>
+
+<p><a href="https://www.adidas.co/accesorios-running">Accesorios Running</a></p>
+
+<h3>Training</h3>
+
+<p><a href="https://www.adidas.co/training">adidas Training</a></p>
+
+<p><a href="/zapatillas_y_tenis-training">Tenis Training</a></p>
+
+<p><a href="https://www.adidas.co/ropa-training">Ropa Training</a></p>
+
+<p><a href="https://www.adidas.co/accesorios-training">Accesorios Training</a></p>
+
+<h3>Outdoor</h3>
+
+<p><a href="/terrex?grid=true">adidas Outdoor</a></p>
+
+<p><a href="/zapatillas_y_tenis-terrex">Tenis Outdoor</a></p>
+
+<p><a href="/ropa-terrex">Ropa Outdoor</a></p>
+
+<p><a href="/accesorios-terrex">Accesorios Outdoor</a></p>
+
+<h3>Natación</h3>
+
+<p><a href="/natacion?grid=true">adidas Natación</a></p>
+
+<p><a href="/sandalias_y_chancletas">Sandalias y Chancletas Natación</a></p>
+
+<p><a href="https://www.adidas.co/ropa-natacion">Ropa Natación</a></p>
+
+<p><a href="https://www.adidas.co/search?cgid=Swimming-Accesories">Accesorios Natación</a></p>
+
+<h3>Skateboarding</h3>
+
+<p><a href="/skateboarding">adidas Skateboarding</a></p>
+
+<p><a href="/zapatillas_y_tenis-skateboarding">Tenis Skateboarding</a></p>
+
+<p><a href="/ropa-skateboarding">Ropa Skateboarding</a></p>
+
+<p><a href="/accesorios-skateboarding">Accesorios Skateboarding</a></p>
+
+<h3>Originals</h3>
+
+<p><a href="/originals?grid=true">adidas Originals</a></p>
+
+<p><a href="/zapatillas_y_tenis-originals">Tenis Originals</a></p>
+
+<p><a href="https://www.adidas.co/ropa-originals">Ropa Originals</a></p>
+
+<p><a href="https://www.adidas.co/accesorios-originals">Accesorios Originals</a></p>
+
+<p><a href="/yeezy">Yeezy Boost |&nbsp;adidas Originals x Kanye West</a></p>
+
+<p><a href="/stan_smith">Stan Smith</a></p>
+
+<p><a href="/superstar">adidas Superstar</a></p>
+
+<p><a href="/originals-eqt">EQT</a></p>
+
+<p><a href="/nmd?grid=true">NMD</a></p>
+<!-- add Static Pages here -->
+
+<h3>Temas de Ayuda</h3>
+
+<p><a href="http://discover.adidas.co/storefinder/#/">Buscador de Tiendas</a></p>
+
+<p><a href="http://www.adidas.co/guia-de-tallas.html">Guía de Tallas</a></p>
+
+<p><a href="https://www.adidas.co/help-topics-adidas_products.html">Productos adidas</a></p>
+
+<p><a href="https://www.adidas.co/help-topics-ordering.html">Realizar pedidos</a></p>
+
+<p><a href="https://www.adidas.co/help-topics-payment.html">Pago</a></p>
+
+<p><a href="https://www.adidas.co/help-topics-shipping.html">Envío</a></p>
+
+<p><a href="https://www.adidas.co/help-topics-returning.html">Devoluciones</a></p>
+
+<p><a href="https://www.adidas.co/help-topics-FAQ.html">Preguntas Frecuentes (FAQ)</a></p>
+
+<p><a href="https://www.adidas.co/help-topics-using_our_site.html">Cómo usar nuestro sitio</a></p>
+
+<p><a href="https://www.adidas.co/help-topics-privacy_policy.html">Política de Privacidad</a></p>
+
+<p><a href="https://www.adidas.co/help-topics-terms_and_conditions.html">Términos y condiciones</a></p>
+
+<p><a href="https://www.contactus.adidas.com/LAM/ContactUs?country=CO&amp;brand=adidas&amp;language=es_MX">Contacto con la Tienda online</a></p>
+
+<h3>Información de la empresa</h3>
+
+<p><a href="https://www.adidas.co/help-topics-imprint.html">Acerca de adidas</a></p>
+
+<p><a href="http://www.adidas.com/careers">Trabaja en nuestro equipo</a></p>
+
+<p><a href="http://news.adidas.com/">Prensa</a></p>
+
+<p><a href="http://www.adidas-group.com/">Información corporativa</a></p>
+
+<p>&nbsp;</p>
+</div><!-- End contentasset -->
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="help-container" class="help-myaccount help-container">
+<div class="clearfix">
+
+<div class="help-myaccount-left">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="contentasset" data-contentasset-id="help-order-tracker" data-contentasset="help-order-tracker">
+<h2>¿DÓNDE ESTÁ MI PEDIDO?</h2>
+
+<div class="help-myaccount-text">
+<p>Accede a tu cuenta o usa la cuenta de invitado para comprobar el estado de un pedido.</p>
+</div>
+</div><!-- End contentasset -->
+
+
+
+
+
+<div class="help-myaccount-buttons">
+<div class="help-myaccount-row">
+<a href="https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/Account-Show" class="help_myaccount_btn button-full-width button-ctn adi-gradient-blue button-forward" data-type="login" title="INICIAR SESIÓN">
+<span>INICIAR SESIÓN</span>
+</a>
+</div>
+<div class="help-myaccount-row">
+<a href="https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/Order-Track" class="help_myaccount_btn button-full-width button-ctn adi-gradient-blue button-forward" data-type="order tracker" title="SEGUIMIENTO DE PEDIDOS">
+<span>SEGUIMIENTO DE PEDIDOS</span>
+</a>
+</div>
+</div>
+
+</div>
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+		
+	
+
+<div class="help-myaccount-right">
+<div class="customer-care-first">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="contentasset" data-contentasset-id="help-customer-care-first" data-contentasset="help-customer-care-first">
+<h2 class="help-myaccount-title">¿AÚN SIGUES CON LA DUDA?</h2>
+
+<h3 class="help-myaccount-description">PREGUNTA AL SERVICIO DE ATENCIÓN AL CLIENTE</h3>
+
+<div class="help-myaccount-support">
+<div class="help-support-status"><span class="support-status online"></span></div>
+
+<table class="help-support-schedule">
+	<tbody>
+		<tr>
+			<td><span></span>
+
+			<p><strong>Lun&nbsp;a Vie&nbsp; &nbsp; &nbsp; &nbsp;</strong></p>
+			<span></span></td>
+			<td>9am a 9pm&nbsp; &nbsp; &nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<div><span style="color:null;"><strong>Sábado</strong></span></div>
+			</td>
+			<td>10am a 6pm</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="help-myaccount-text">
+<p>&nbsp;</p>
+</div>
+</div><!-- End contentasset -->
+
+
+
+
+<div class="help-myaccount-buttons">
+<div class="help-myaccount-row">
+<a class="help_myaccount_btn button-full-width button-ctn adi-gradient-blue button-forward" data-type="customer care" href="" title="Servicio al Cliente">
+<span>Servicio al Cliente</span>
+</a>
+</div>
+</div>
+</div>
+<div class="customer-care-next hidden">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="contentasset" data-contentasset-id="help-customer-care-second" data-contentasset="help-customer-care-second">
+<h2>¿AÚN SIGUES CON LA DUDA?</h2>
+
+<h3>PREGUNTA AL SERVICIO DE ATENCIÓN AL CLIENTE</h3>
+
+<div class="help-myaccount-support">
+<table class="help-support-schedule">
+	<tbody>
+		<tr>
+			<td><span>Lun a Vie&nbsp; &nbsp; &nbsp; &nbsp;</span></td>
+			<td>9am a 9pm</td>
+		</tr>
+		<tr>
+			<td><span>Sábado</span></td>
+			<td>10am a 6pm&nbsp; &nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="customer-care-item" data-item="chat"><span class="ico ico-chat"></span>
+
+<div class="customer-care-text">
+<h3>Utiliza el botón del&nbsp;Chat.</h3>
+
+<p>Aparecerá en la parte inferior derecha de la pantalla, al momento de tener un asesor disponible.<strong><span style="color:#2c3e50;"><span style="font-size:11px;"></span></span></strong></p>
+
+<p><strong><span style="color:#2c3e50;"><span style="font-size:11px;"><em>*Descarga nuestra aplicación desde tu App store. Ubica el Chat en la sección de Configuración &gt; servicio al cliente</em></span></span></strong></p>
+</div>
+</div>
+
+<div class="customer-care-item" data-item="facebook"><a href="https://m.me/adidasCO"><span class="ico ico-email"><span class="ico ico-facebook"></span></span></a>
+
+<div class="customer-care-text">
+<h3>Contacta&nbsp;adidas via <a href="https://m.me/adidasCO">Facebook.</a></h3>
+
+<p>Utiliza la opción de Facebook Messenger.</p>
+</div>
+</div>
+<!--<div class="customer-care-item" data-item="twitter"><a href="https://twitter.com/adidasLAMayuda"><span class="ico ico-twitter"></span></a>
+
+<div class="customer-care-text">
+<h3>Contacta&nbsp;adidas via <a href="https://twitter.com/adidasLAMayuda">Twitter.</a></h3>
+
+<p>Utiliza la opci&oacute;n de mensaje privado.</p>
+</div>-->
+
+<div class="customer-care-item" data-item="call"><a href="tel:+57 13557233"><span class="ico ico-phone"></span></a>
+
+<div class="customer-care-text">
+<h3>Llamamos al número&nbsp;<a href="tel:0313557233">(1)3557233</a></h3>
+
+<p>Número local, Bogotá</p>
+
+<p>&nbsp;</p>
+
+<p>*Haz click en cada ícono para comunicarte con nosotros</p>
+
+<p>&nbsp;</p>
+<!--p><strong>Correo electr&oacute;nico</strong>: <a href="mailto:servicio@onlineshop.adidas.co">servicio@onlineshop.adidas.co</a></p--></div>
+</div>
+</div><!-- End contentasset -->
+
+
+
+
+</div>
+</div>
+
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+
+
+
+
+	
+	
+
+
+<!--googleoff: all--><noindex>
+	<div class="hidden" data-component="pagecontext/Context">%7B%22ajaxCall%22%3Afalse%2C%22environment%22%3A%22production%22%2C%22production%22%3Atrue%2C%22is_mobile%22%3A%22%22%2C%22date%22%3A%22051222%22%2C%22localeCountry%22%3A%22co%22%2C%22session_id%22%3A%22TpV_Qn8HVAkK1Aob-b-LpAiIPWNR0qchXic%3D%22%2C%22innerCall%22%3Afalse%2C%22page_type%22%3A%22help%22%2C%22page_name%22%3A%22Mapa%20del%20sitio%22%2C%22analytics%22%3A%7B%22tags%22%3A%5B%7B%22event%22%3A%22ready%22%2C%22type%22%3A%22pageview%22%2C%22scheme%22%3A%22help%22%2C%22attributes%22%3A%7B%22page_name%22%3Anull%2C%22page_type%22%3A%22HELP%22%2C%22cart_id%22%3Anull%2C%22dw_version%22%3A%22%24dw_version%22%2C%22geo_country%22%3A%22%24cookies.geo_country%22%2C%22environment%22%3Anull%2C%22site_name%22%3Anull%2C%22country%22%3Anull%2C%22language%22%3Anull%2C%22is_mobile%22%3Anull%2C%22is_customizable%22%3Anull%2C%22breadcrumb*%22%3A%22%24breadcrumbs%22%2C%22date%22%3Anull%2C%22logged_in%22%3Anull%2C%22customer_id%22%3A%22%24cookies.customer_id%22%2C%22euci%22%3A%22%24cookies.euci%22%2C%22form_name*%22%3Anull%2C%22form_error*%22%3Anull%2C%22form_field_value*%22%3Anull%2C%22dw_test_id%22%3Anull%2C%22dw_segment_id%22%3Anull%2C%22certona_recs_scheme%22%3Anull%2C%22certona_recs_count%22%3Anull%2C%22certona_recs_query%22%3Anull%2C%22session_id%22%3Anull%7D%7D%2C%7B%22event%22%3A%22cs-short-answer%22%2C%22type%22%3A%22element%22%2C%22scheme%22%3A%22cs-short-answer%22%2C%22attributes%22%3A%7B%22event_category%22%3A%22CS_SEARCH%22%2C%22event%22%3A%22ELEMENT%22%2C%22event_name%22%3Anull%7D%7D%2C%7B%22event%22%3A%22wishlistadd%22%2C%22type%22%3A%22element%22%2C%22scheme%22%3A%22wishlistadd%22%2C%22attributes%22%3A%7B%22event_name%22%3A%22ADD%20TO%20WISHLIST%22%2C%22event_category%22%3A%22%24page_type%22%2C%22product_id*%22%3A%22%22%2C%22product_model_id*%22%3A%22%22%2C%22product_name*%22%3A%22%22%2C%22product_price*%22%3A%22%22%2C%22product_price_vat*%22%3A%22%22%2C%22product_gender*%22%3A%22%22%2C%22product_category*%22%3A%22%22%2C%22event%22%3A%22ELEMENT%22%7D%7D%2C%7B%22event%22%3A%22wishlistremove%22%2C%22type%22%3A%22element%22%2C%22scheme%22%3A%22wishlistremove%22%2C%22attributes%22%3A%7B%22event_name%22%3A%22REMOVE%20FROM%20WISHLIST%22%2C%22event_category%22%3A%22%24page_type%22%2C%22product_id*%22%3A%22%22%2C%22product_model_id*%22%3A%22%22%2C%22product_name*%22%3A%22%22%2C%22product_price*%22%3A%22%22%2C%22product_price_vat*%22%3A%22%22%2C%22product_gender*%22%3A%22%22%2C%22product_category*%22%3A%22%22%2C%22product_quantity*%22%3A1%2C%22event%22%3A%22ELEMENT%22%7D%7D%2C%7B%22event%22%3A%22header-signup%22%2C%22type%22%3A%22element%22%2C%22scheme%22%3A%22header-signup%22%2C%22attributes%22%3A%7B%22event_category%22%3A%22EMAIL%20SIGNUP%22%2C%22customer_email%22%3A%22%24cookies.customer_email%22%2C%22customer_encrypted_email%22%3A%22%24cookies.customer_encrypted_email%22%2C%22signup_location%22%3A%22HEADER%22%2C%22signup_step%22%3A%22%7B0%7D%22%2C%22event%22%3A%22ELEMENT%22%2C%22event_name%22%3Anull%7D%7D%2C%7B%22event%22%3A%22video-action%22%2C%22type%22%3A%22element%22%2C%22scheme%22%3A%22video-action%22%2C%22attributes%22%3A%7B%22video_category%22%3Anull%2C%22video_event%22%3Anull%2C%22video_length%22%3Anull%2C%22video_name%22%3Anull%2C%22video_player%22%3Anull%2C%22video_position%22%3Anull%2C%22event%22%3A%22ELEMENT%22%2C%22event_name%22%3Anull%2C%22event_category%22%3Anull%7D%7D%2C%7B%22event%22%3A%22email-optout%22%2C%22type%22%3A%22element%22%2C%22scheme%22%3A%22email-optout%22%2C%22attributes%22%3A%7B%22event_category%22%3A%22EMAIL%20OPT-OUT%22%2C%22signup_location%22%3A%22OVERLAY%22%2C%22signup_step%22%3A%22%7B0%7D%22%2C%22event%22%3A%22ELEMENT%22%2C%22event_name%22%3Anull%7D%7D%2C%7B%22event%22%3A%22form-error%22%2C%22type%22%3A%22element%22%2C%22scheme%22%3A%22form-error%22%2C%22attributes%22%3A%7B%22event_category%22%3A%22FORM%20ERRORS%22%2C%22form_name%22%3A%22%7B0%7D%22%2C%22form_error%22%3A%22%7B1%7D%22%2C%22form_field_value%22%3A%22%7B2%7D%22%2C%22event%22%3A%22ELEMENT%22%2C%22event_name%22%3Anull%7D%7D%2C%7B%22event%22%3A%22navigation-click%22%2C%22type%22%3A%22link%22%2C%22scheme%22%3A%22navigation-click%22%2C%22attributes%22%3A%7B%22event_category%22%3A%22NAVIGATION%20CLICK%22%2C%22link_name%22%3A%22%7B0%7D%22%2C%22link_href%22%3A%22%7B1%7D%22%2C%22event%22%3A%22LINK%22%7D%7D%2C%7B%22event%22%3A%22search-suggestion%22%2C%22type%22%3A%22element%22%2C%22scheme%22%3A%22search-suggestion%22%2C%22attributes%22%3A%7B%22event_name%22%3A%22SEARCH%20SUGGESTION%22%2C%22event_category%22%3A%22SEARCH%22%2C%22form_field_value%22%3Anull%2C%22event%22%3A%22ELEMENT%22%7D%7D%2C%7B%22event%22%3A%22generic%22%2C%22type%22%3A%22pageview%22%2C%22scheme%22%3A%22generic%22%2C%22attributes%22%3A%7B%22page_name%22%3Anull%2C%22page_type%22%3A%22CUSTOMER%20SERVICE%22%2C%22cart_id%22%3Anull%7D%7D%2C%7B%22event%22%3A%22geo-overlay%22%2C%22type%22%3A%22link%22%2C%22scheme%22%3A%22geo-overlay%22%2C%22attributes%22%3A%7B%22event%22%3A%22ELEMENT%22%2C%22event_category%22%3A%22COUNTY%20SELECTOR%22%2C%22event_name%22%3A%22%7B0%7D%22%2C%22link_name%22%3Anull%2C%22link_href%22%3Anull%7D%7D%2C%7B%22event%22%3A%22customer-care-item%22%2C%22type%22%3A%22element%22%2C%22scheme%22%3A%22customer-care-item%22%2C%22attributes%22%3A%7B%22event%22%3A%22HELP%3ACTA%20CLICK%22%2C%22event_name%22%3Anull%2C%22event_category%22%3Anull%7D%7D%5D%2C%22tealium_library%22%3A%22https%3A%2F%2Ftags.tiqcdn.com%2Futag%2Fadidas%2Fadidasglobal%2Fprod%2Futag.js%22%2C%22tealium_sync_library%22%3A%22https%3A%2F%2Ftags.tiqcdn.com%2Futag%2Fadidas%2Fadidasglobal%2Fprod%2Futag.sync.js%22%7D%2C%22config%22%3A%7B%22replace%22%3A%5B%22filters_applied*%22%2C%22product_id%22%2C%22product_sku%22%2C%22product_name%22%2C%22**%22%5D%7D%2C%22site_name%22%3A%22Adidas%22%2C%22country%22%3A%22CO%22%2C%22language%22%3A%22es%22%2C%22profile%22%3A%22adidasglobal%22%2C%22is_customizable%22%3A%22%22%2C%22logged_in%22%3A%22%22%2C%22dw_version%22%3A%22SFCC_STG_2022w45_494%22%2C%22session%22%3A%7B%7D%2C%22_MAX_DEPTH_LEVEL%22%3A3%2C%22_MAX_OBJECT_PROPS%22%3A10%2C%22events%22%3A%5B%5D%7D</div>
+</noindex><!--googleon: all-->
+
+
+
+
+    
+
+<script type="text/json" data-component="package/InjectionSlots"></script>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="footer" class=" " data-component="common/footer/Footer,pagecontext/Scope">
+<div class="footer-top clearfix">
+
+
+	 
+
+
+	
+
+
+
+
+
+ 
+	
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footer-actions-container">
+
+
+
+
+
+<div class="footer-newsletter footer-signup-new-flow" data-component="common/footer/FooterSignUp">
+	
+
+
+	
+	
+	
+	
+	
+	
+		
+	
+
+	<div class="signupandsave_start">
+		<form action="https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/Newsletter-Submits" method="post" data-component="form/Form" id="footer-email-send-form" class="email_signup">
+			<fieldset>
+				<div class="formactions">
+					<a type="submit" id="footernewslettersubmitbutton" class="signupandsave_submit">
+						<span>Suscribirme</span>
+					</a>
+				</div>
+				<div class="formfield">
+					
+						
+
+ 	
+ 	
+	
+	
+
+		
+		
+		
+			
+			<div class="value">
+				
+				
+				
+					
+						
+					
+				 	
+				 	<label class="label-off" for="dwfrm_profile_customer_footeremail">tu dirección de Correo electrónico</label> <input class="textinput email_field" id="dwfrm_profile_customer_footeremail" type="text" value="" maxlength="50" name="email" placeholder="tu dirección de Correo electrónico">
+				<!-- display text area input field -->
+				
+				
+				    
+					   <script type="text/json" data-component="common/HiddenJson">{label:"tu direcci&oacute;n de Correo electr&oacute;nico"}</script><!-- this MUST be immediately after the input/field tag. Hiden data to be attached to the input field (app.hiddenData in app.js -->
+					
+				
+				
+				
+			</div>
+		
+		
+		
+		
+	    
+		
+		
+		
+		
+		
+		
+		
+
+	
+	
+
+
+
+
+
+
+					
+					<span class="error validation_error">Escribe una dirección de correo electrónico válida</span>
+					
+					<input class="age_confirmation" type="hidden" name="ageconfirmation" value="false">
+				</div>
+			</fieldset>
+		</form>
+		
+		<p class="age_confirmation_text">Al hacer click en el botón "Registrarme", confirmo que soy mayor de 18 años de edad.</p>
+		
+
+	<p class="legal-copy-content">Doy mi consentimiento a  <a href="/help-topics-imprint.html" target="_blank">adidas Colombia Ltda</a>  para que utilice mis datos personales con fines comerciales y para sondeos de opinión.  En particular, adidas estará autorizada a analizar mis interacciones con la compania (como por ejemplo mi historial de compras, el uso de aplicaciones, redes sociales y datos personales que comparto con adidas) para así poderme enviar mensajes comerciales personalizados sobre los productos de adidas. adidas podrá ponerse en contacto conmigo mediante correos electrónicos, mensajes de texto, correo ordinario, aplicaciones o cualquier otro medio de comunicación que yo desee utilizar. <a href="#" _dialogtitle="¿Qué quiere decir esto?" data-component="common/Popup" data-closeonescape="true" data-width="460" data-height="auto" data-dialogclass="explanatory-popup" data-target-template="#legalcontentpopup" class="terms">¿Qué quiere decir esto?</a></p>
+	<script type="text/template" id="legalcontentpopup">
+		<div class="signupandsavedialog">Autorizo a <a href="/help-topics-imprint.html" target=_blank>adidas Colombia Ltda</a>, para que me informe por cualquier medio (teléfono, correo electrónico, redes sociales, correo físico) acerca de sus productos, eventos y promociones que pudieran ser de mi interés, así como para preguntarme sobre mi opinión acerca de sus productos y servicios.Del mismo modo, adidas Colombia S.A. podrá elaborar perfiles y analizar mis interacciones con adidas, como por ejemplo, las visitas al sitio web, el comportamiento de compra, el uso de sus aplicaciones y el seguimiento de los enlaces que he consultado.De este modo, entiendo que adidas Colombia podrá conocer mis intereses y por ello la autorizo para enviarme información y promociones que mejor se adapten a mis intereses.Manifiesto que adidas Colombia me ha informado acerca de mis derechos como titular de datos personales y por ello soy consciente que tengo derecho a revocar la presente autorización de uso de datos personales y solicitar la supresión de mis datos conforme a los términos establecidos en la <a href="/help-topics-privacy_policy.html" target=_blank>Política de Privacidad</a> la cual manifiesto conocer.</div>
+	</script>
+
+
+	</div>
+	<div class="signupandsave_complete">
+		<h3 class="signupandsave_complete-title">Registro completado</h3>
+		<p class="signupandsave_complete-content">
+			Enviaremos un correo de confirmación a
+				<span></span> 
+		</p>
+		<a class="signupandsave_reset"></a>
+	</div>
+	<div class="loading_wrapper">
+		<div class="loading">&nbsp;</div>
+	</div>
+</div>
+
+
+</div>
+<div class="footer-copy" data-component="content/ExternalLinks" data-linkscontext="footer">
+
+
+
+
+
+	 
+
+
+	
+
+
+
+
+
+
+<div class="content-wrapper">
+<ul>
+	<li>
+	<h5>PRODUCTOS</h5>
+	</li>
+	<li><a href="/calzado">Tenis</a></li>
+	<li><a href="/ropa">Ropa</a></li>
+	<li><a href="/accesorios">Accesorios</a></li>
+	<li><a href="/guayos">Guayos</a></li>
+	<li><a href="/chaquetas_rompevientos">Rompevientos</a></li>
+	<li>&nbsp;</li>
+	<li><a href="/novedades">Novedades</a></li>
+	<li><a href="/cyberlunes">Cyber Lunes</a></li>
+	<li><a href="/black_friday" title="Black Friday">Black Friday</a></li>
+	<li><a href="/hotsale">Hot Sale</a></li>
+	<li><a href="/outlet?grid=true">Outlet</a></li>
+	<li>&nbsp;</li>
+	<li><strong><a href="/creatorsclub">Creators Club</a></strong></li>
+	<li><a href="/adidasapp">adidas app</a></li>
+	<li><a href="/hometeam">adidas en casa</a></li>
+</ul>
+
+<ul>
+	<li>
+	<h5>DEPORTES</h5>
+	</li>
+	<li><a href="/colombia" title="Selección Colombia">Selección Colombia</a></li>
+	<li><a href="/futbol?grid=true">Fútbol</a></li>
+	<li><a href="/running?grid=true">Running</a></li>
+	<li><a href="/basketball?grid=true">Basketball</a></li>
+	<li><a href="/training?grid=true">Gym &amp; Training</a></li>
+	<li><a href="/millonarios" title="Millonarios">Millonarios</a></li>
+	<li>&nbsp;</li>
+	<li>
+	<h5>COLECCIONES</h5>
+	</li>
+	<li><a href="/yeezy">Yeezy</a></li>
+	<li><a href="/ultraboost">Ultraboost</a></li>
+	<li><a href="/superstar">Superstar</a></li>
+	<li><a href="/stan_smith">Stan Smith</a></li>
+	<li><a href="/originals-adicolor">adicolor</a></li>
+</ul>
+
+<ul>
+	<li>
+	<h5>ASISTENCIA</h5>
+	</li>
+	<li><strong><a href="https://www.adidas.co/ayuda">¿Necesitas ayuda?</a></strong></li>
+	<li><a href="https://www.adidas.co/como-me-puedo-contactar-con-el-call-center.html" rel="nofollow" target="_blank">Servicio al cliente</a></li>
+	<li><a href="https://www.adidas.co/ayuda">Preguntas frecuentes</a></li>
+	<li><a href="/cual_es_mi_talla_adidas.html">Guía de tallas</a></li>
+	<li><a href="/ayuda?hcid=PEDIDOS">Pedidos</a></li>
+	<li><a href="/ayuda?hcid=PROCESO_DE_PAGO">Pago</a></li>
+	<li><a href="/ayuda?hcid=ENTREGAS">Entregas</a></li>
+	<li><a href="https://www.adidas.co/ayuda?hcid=DEVOLUCIONES_Y_REEMBOLSOS">Devoluciones</a></li>
+	<li><a href="/Como-realizo-el-cambio-en-tienda.html">Cambio en Tiendas</a></li>
+	<li><a href="https://www.adidas.co/ayuda?hcid=VENTAS_POR_WHATSAPP_DESDE_TIENDAS">Ventas por Whatsapp</a></li>
+	<li><a href="https://www.adidas.co/blog/450487-how-to-fit-your-sports-bra">Cómo saber la talla de tu Bra</a></li>
+	<li><a href="https://www.adidas.co/help-topics-using_our_site.html" rel="nofollow" target="_blank">Cómo usar nuestro sitio</a></li>
+	<li><a href="/mapa-del-sitio.html">Mapa del sitio</a></li>
+</ul>
+
+<ul>
+	<li>
+	<h5>INFORMACIÓN DE LA EMPRESA</h5>
+	</li>
+	<li><a href="https://www.adidas-group.com/en/" rel="nofollow" target="_blank">Acerca de adidas</a></li>
+	<li><a href="http://careers.adidas-group.com" rel="nofollow" target="_blank">Trabaja en nuestro equipo</a></li>
+	<li><a href="http://news.adidas.com/" rel="nofollow" target="_blank">Prensa</a></li>
+	<li>&nbsp;</li>
+	<li>
+	<h5>TIENDAS</h5>
+	</li>
+	<li><a href="/storefinder/" target="_blank">Buscador de tiendas</a></li>
+</ul>
+
+<ul>
+	<li>
+	<h5>TÉRMINOS Y CONDICIONES</h5>
+	</li>
+	<li><a href="/terminosycondiciones.html">Términos y Condiciones</a></li>
+	<li><a href="/YESadidas.html">Términos #YESadidas</a></li>
+	<li><a href="https://www.adidas.co/help-topics-privacy_policy.html" rel="nofollow" target="_blank">Política de Privacidad</a></li>
+	<li><a href="https://www.adidas.co/Politica-Proteccion-Datos-Personales.html" rel="nofollow" target="_blank">Aviso de Privacidad </a></li>
+	<li><a href="https://www.adidas.co/help-topics-terms_and_conditions_for_website_use.html" rel="nofollow" target="_blank">Términos y Condiciones de uso del sitio</a></li>
+	<li><a href="http://www.sic.gov.co/" rel="nofollow" target="_blank">SIC</a></li>
+</ul>
+</div>
+
+<div class="content-wrapper">
+<p><small>*Hasta agotar existencias</small></p>
+<!--p><small>** Esta oferta tiene una duración limitada y solo es válida en artículos seleccionados. <a href="/productos-excluidos.html" target="_blank">Click aquí para ver los artículos excluidos</a>. El descuento se aplicará de manera automática al pasar por caja. Esta oferta no se aplica a pedidos que hayas realizado con anterioridad y no es acumulable con otros descuentos o promociones. Oferta válida solo en pedidos nacionales de la tienda online. Hasta fin de existencias.</small></p--></div>
+
+<div class="copy-wrapper">
+<ol class="copy">
+	<li><a href="https://www.adidas.co/help-topics-imprint.html" rel="nofollow" target="_blank">Nuestros datos</a></li>
+	<li>
+	<p>© 2022&nbsp;adidas Colombia LTDA</p>
+
+	<ul>
+		<li>
+		<div id="teconsent" style="display: none;">&nbsp;</div>
+		</li>
+	</ul>
+	</li>
+</ol>
+</div>
+
+
+ 
+	
+
+
+<div class="footer-country_selector">
+
+
+<a class="country_selector" href="https://www.adidas.co/country-selector.html" data-component="analytics/Trigger" data-page_name="COUNTRY SELECTOR"><span class="es_CO">es_CO</span></a>
+<a class="country_selector_text country_selector" href="https://www.adidas.co/country-selector.html" data-component="analytics/Trigger" data-page_name="COUNTRY SELECTOR">Colombia</a>
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/template" data-component="common/footer/FooterPlaceholder">
+    <div class="footer-placeholder"></div>
+</script>
+</div>
+
+
+
+
+
+
+
+
+<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+function trackPage() {
+    try{
+        var trackingUrl = "https://www.adidas.co/on/demandware.store/Sites-adidas-CO-Site/es_CO/__Analytics-Start";
+        var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+        if (typeof dw.ac == "undefined") {
+            dwAnalytics.trackPageView();
+        } else {
+            dw.ac.setDWAnalytics(dwAnalytics);
+        }
+    }catch(err) {};
+}
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/internal/jscript/dwanalytics-22.2.js" async="async" onload="trackPage()"></script>
+<!-- Demandware Active Data (body_end-active_data.js) -->
+<script src="/on/demandware.static/Sites-adidas-CO-Site/-/es_CO/v1670230633876/internal/jscript/dwac-21.7.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+<script type="text/javascript" src="/bSF1/L6xh/db/iFkt/afMg/9tiDwLf9iQ1D/MzUAAg/PxJMFS/c4IgwC"></script><link rel="stylesheet" type="text/css" href="/_sec/cp_challenge/sec-3-8.css">
+          <script src="/_sec/cp_challenge/sec-cpt-3-8.js" async="" defer=""></script>
+          <div id="sec-overlay" style="display:none;">
+          <div id="sec-container">
+          </div>
+        </div>
+
+
+
+
+<script src="https://p.cquotient.com/pebble?tla=aaqx-adidas-CO&amp;activityType=viewPage&amp;callback=CQuotient._act_callback0&amp;cookieId=ab7UBy23jofZeXlAGDNK1FPsPp&amp;realm=aaqx&amp;siteId=adidas-CO&amp;instanceType=prd&amp;referrer=https%3A%2F%2Fwww.adidas.co%2F&amp;currentLocation=https%3A%2F%2Fwww.adidas.co%2Fmapa-del-sitio.html&amp;ls=true&amp;_=1670305923162&amp;v=v2.34.3&amp;fbPixelId=__UNKNOWN__&amp;json=%7B%22cookieId%22%3A%22ab7UBy23jofZeXlAGDNK1FPsPp%22%2C%22realm%22%3A%22aaqx%22%2C%22siteId%22%3A%22adidas-CO%22%2C%22instanceType%22%3A%22prd%22%2C%22referrer%22%3A%22https%3A%2F%2Fwww.adidas.co%2F%22%2C%22currentLocation%22%3A%22https%3A%2F%2Fwww.adidas.co%2Fmapa-del-sitio.html%22%2C%22ls%22%3Atrue%2C%22_%22%3A1670305923162%2C%22v%22%3A%22v2.34.3%22%2C%22fbPixelId%22%3A%22__UNKNOWN__%22%7D" type="text/javascript"></script></body></html>
