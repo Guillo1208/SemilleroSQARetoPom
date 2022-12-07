@@ -5,9 +5,9 @@ import org.openqa.selenium.By;
 
 public class SubCategoriaPageObject extends PageObject {
 
-    By btnSubCategoria = By.xpath("//button[@title='ROPA']");
+    By btnProducto = By.xpath("(//img[@class='img_with_fallback___2aHBu glass-product-card__image'])[3]");
 
-    public By getBtnSubCategoria() {
-        return btnSubCategoria;
+    public By getBtnProducto() {
+        return btnProducto;
     }
 }

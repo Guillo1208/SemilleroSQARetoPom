@@ -2,9 +2,10 @@ package co.adidas.stepDefinitions;
 
 import co.adidas.steps.*;
 import cucumber.api.java.es.Cuando;
-import cucumber.api.java.es.Dado;
 import cucumber.api.java.es.Entonces;
 import net.thucydides.core.annotations.Steps;
+
+import java.io.IOException;
 
 public class CompraStepDefinition {
     @Steps
@@ -12,33 +13,34 @@ public class CompraStepDefinition {
     @Steps
     SubCategoriaStep subCategoriaStep;
     @Steps
-    LicrasStep licrasStep;
+    CarroUnoStep carroUnoStep;
     @Steps
-    LicraStep licraStep;
+    ResultadoBusquedaStep resultadoBusquedaStep;
     @Steps
-    LicraCarroStep licraCarroStep;
+    CarroDosStep carroDosStep;
 
     @Cuando("^el usuario selecciona producto por categoria$")
     public void elUsuarioSeleccionaProductoPorCategoria() {
         categoriaStep.clicCategoria();
         subCategoriaStep.clicSubCategoria();
-        licrasStep.clicLicras();
-        licraStep.clicLicra();
-        licraCarroStep.clicTalla();
-        licraCarroStep.clicAgregar();
-        licraCarroStep.clicCerrar();
-
+        carroUnoStep.clicTalla();
+        carroUnoStep.clicAgregar();
+        //carroUnoStep.clicCerrar();
     }
 
 
     @Cuando("^el usuario ingresa producto a buscar$")
-    public void elUsuarioIngresaProductoABuscar() {
-
+    public void elUsuarioIngresaProductoABuscar() throws IOException {
+        carroUnoStep.ingresarBusqueda();
+        resultadoBusquedaStep.clicResultadoBusqueda();
+        carroDosStep.clicTalla();
+        carroDosStep.clicAgregar();
+        //carroDosStep.clicCerrar();
     }
 
     @Entonces("^el usuario observara los productos en carro de compra$")
     public void elUsuarioObservaraLosProductosEnCarroDeCompra() {
-
+        carroDosStep.validacion();
     }
 
 
